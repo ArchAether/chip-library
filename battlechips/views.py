@@ -42,11 +42,36 @@ def mmbn6_by_description(request, description):
             result.append(chip)
     return JsonResponse(result, safe=False)
 
+def mmbn6_by_code(request, code):
+    battlechips = get_battleChips()
+    results = []
+    for chip in battlechips:
+        if code.lower() in chip.get('codes').lower():
+            results.append(chip)
+    return JsonResponse(results, safe=False)
+
+def mmbn6_by_class(request, chipClass):
+    battlechips = get_battleChips()
+    results = []
+    for chip in battlechips:
+        if chipClass.lower() in chip.get('class').lower():
+            results.append(chip)
+    return JsonResponse(results, safe=False)
+
+def mmbn6_by_version(request, version):
+    battlechips = get_battleChips()
+    results = []
+    for chip in battlechips:
+        if version.lower() in chip.get('version').lower():
+            results.append(chip)
+    return JsonResponse(results, safe=False)
+
 def get_battleChips():
     battlechips = []
     with open('battlechips/static/csvs/MMBN6-BattleChips.csv', 'r', encoding='utf-8') as f:
         reader = csv.reader(f)
         next(reader)
         for row in reader:
-            battlechips.append({'number': int(row[0]), 'name': row[2], 'type': row[3], 'damage': row[4], 'description': row[5], 'location': row[6]})
+            battlechips.append({'number': int(row[0]), 'name': row[2], 'type': row[3], 'damage': row[4],
+            'description': row[5], 'location': row[6], 'codes': row[7], 'class': row[8], 'version': row[9]})
     return battlechips
