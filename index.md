@@ -4,7 +4,7 @@ chip-library is an api built in Python's Django that returns JSONs of battlechip
 # Endpoints:
 ---
 |Name|Variable|Description|
-|---|---|---|
+| --- | --- | --- |
 |/battlechips/|none|Returns a JSON list of all battlechips in Mega Man Battle Network 6|
 |.../{id}/|int|Returns a JSON of the battlechip with id number {id}|
 |.../{name}/|string|Returns a JSON of the battlechip with the same name as {name}|
