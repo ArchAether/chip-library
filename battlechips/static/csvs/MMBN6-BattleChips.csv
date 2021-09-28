@@ -1,265 +1,265 @@
-﻿#,Image,Name,Type,Damage,Description,Location,Codes,Class,version
-1,,Cannon(キャノン),non-elemental,40,Cannon attack to 1 enemy,A: Folder1 x2B: Folder1 x2C: RobCtrlComp1 GMD*: RobCtrlComp2 GMD,"A, B, C, *",standard,"gregar, falzar"
-2,,HiCannon(ハイキャノン),non-elemental,100,Cannon attack to 1 enemy,"L: Central Area 3 BMD, AquarumComp1 GMDM: AquarumComp3 BMD, Green Area 1 GMDN: Seaside Area 1 GMD*: JdgTreeComp1 GMD","L,M,N,*",standard,"gregar, falzar"
-3,,M-Cannon(メガキャノン),non-elemental,180,Cannon attack to 1 enemy,R: Mr Weather Comp 3 GMDS: Sky Area 2 BMDT: AquarumComp3 GMD*: MascotComp BMD,"R,S,T,*",standard,"gregar, falzar"
-4,,AirShot(エアシュート),wind,20,Knock enmy back 1 square,*: Folder1 x2,*,standard,"gregar, falzar"
-5,,Vulcan1(バルカン１),non-elemental,10,3-shot to pierce 1 panel!,"B: Central Area 1 GMDD: Folder1 x3, Central Area 3 GMDS: ?*: RobCtrlComp2 GMD","B,D,S,*",standard,"gregar, falzar"
-6,,Vulcan2(バルカン２),non-elemental,15,4-shot to pierce 1 panel!,D: JdgTreeComp1 GMDF: AquarumComp2 GMDL: Green Area 1 GMD,"D,F,L",standard,"gregar, falzar"
-7,,Vulcan3(バルカン３),non-elemental,20,5-shot to pierce 1 panel!,G: Sky Area 2 GMD (need Untrap?),"A,G,R",standard,"gregar, falzar"
-8,,SuprVulc(スーパーバルカン),non-elemental,20,10-shot vulcan cannon!,V: PMD in Underground 2 (JP)Beat the 5th Virus Battler in Central Area 1 for the first time (INT),V,standard,"gregar, falzar"
-9,,Spreadr1(スプレッドガン１),non-elemental,30,Spreads damg to adj panels,L: Central Area 2 NetDealer (600 Z)M: RobCtrlComp1 BMDN: Central Area 3 GMD*: Seaside Area 1 GMD,"L,M,N,*",standard,"gregar, falzar"
-10,,Spreadr2(スプレッドガン２),non-elemental,60,Spreads damg to adj panels,A: AquarumComp3 GMDB: Green Area 2 GMD (need Untrap?)C: Green Area 1 BMD*:,"A,B,C,*",standard,"gregar, falzar"
-11,,Spreadr3(スプレッドガン３),non-elemental,90,Spreads damg to adj panels,,"Q,R,S,*",standard,"gregar, falzar"
-12,,TankCan1(センシャホウ１),non-elemental,120,3sqr blst if hits end row,CatackA: Catack Rank 10-SG: Catack Rank 7-9 (Gregar)R: Central Area 2 NetDealer (2400 Z),"A,G,R",standard,"gregar, falzar"
-13,,TankCan2(センシャホウ２),non-elemental,160,3sqr blst if hits end row,"Cateen, RareCatack","L,S,V",standard,"gregar, falzar"
-14,,TankCan3(センシャホウ３),non-elemental,200,3sqr blst if hits end row,"Catpult, RareCatack2","B,M,P",standard,"gregar, falzar"
-15,,GunDelS1(ガンデルソル１),non-elemental,-,Hits row 2pnl ahd w/sunshne,C: Aster Land normal stock (1000 Z)M: Undernet Zero GMDT: Underground Area 1 GMD*:,"C,M,T,*",standard,"gregar, falzar"
-16,,GunDelS2(ガンデルソル２),non-elemental,-,Hits row 2pnl ahd w/sunshne,E: Pavillion Comp 2 BMDR: Graveyard (JP: Graveyard 2) GMD,"B,E,R",standard,"gregar, falzar"
-17,,GunDelS3(ガンデルソル３),non-elemental,-,Hits row 2pnl ahd w/sunshne,N: Purchase from NetDealer in Undernet Zero for 12000 Z.In-battle GMD in Immortal Area (JP),"N,Q,W",standard,"gregar, falzar"
-18,,YoYo(ヨーヨー),non-elemental,50,YoYo atk reaches 3sq ahead,L: Central Area 2 NetDealer (4600 Z)M: AquarumComp1 GMDN: JdgTreeComp2 BMD*: BookComp BMD,"L,M,N,*",standard,"gregar, falzar"
-19,,FireBrn1(ヘルズバーナー１),fire,70,Crcks 3 sqrs ahd with fire,"OldStov, RareOldStovH: Seaside Area 3 GMD","F,G,H,*",standard,"gregar, falzar"
-20,,FireBrn2(ヘルズバーナー２),fire,110,Crcks 3 sqrs ahd with fire,"OldHeatr, RareOldStov, RareOldStov2S: OldHeatr Rank 10-S","S,T,U",standard,"gregar, falzar"
-21,,FireBrn3(ヘルズバーナー３),fire,150,Crcks 3 sqrs ahd with fire,"OldBurnr, RareOldStov2","C,D,E",standard,"gregar, falzar"
-22,,WideSht(ワイドショット),wind,100,Fires 3sq shotgun blast!,P: Aster Land normal stock (7000 Z)Q: Underground Area 1 GMDR: Underground Area 2 GMD (need Untrap),"P,Q,R",standard,"gregar, falzar"
-23,,TrnArrw1(トレインアロー１),aqua,30,Hits enmy w/arrow. Use dstnc,"Piranha, RarePiranhaA: Piranha Rank 10-S, Sky Area 1 GMDF: Piranha Rank 6+ (Falzar)K: Piranha Rank 6+ (Gregar)","A,F,K",standard,"gregar, falzar"
-24,,TrnArrw2(トレインアロー２),aqua,40,Hits enmy w/arrow. Use dstnc,"Piranha2, RarePiranha, RarePiranha2","G,M,Z",standard,"gregar, falzar"
-25,,TrnArrw3(トレインアロー３),aqua,50,Hits enmy w/arrow. Use dstnc,"Piranha3, RarePiranha2","M,S,Y",standard,"gregar, falzar"
-26,,BblStar1(バブルスター１),aqua,60,Seals an enemy in a bubble.,"Starfish, RareStarfishE: Underground Area 1 GMD","B,E,T",standard,"gregar, falzar"
-27,,BblStar2(バブルスター２),aqua,80,Seals an enemy in a bubble.,"Starfsh2, RareStarfish, RareStarfish2","C,L,V",standard,"gregar, falzar"
-28,,BblStar3(バブルスター３),aqua,100,Seals an enemy in a bubble.,Starfsh3,"G,R,S",standard,"gregar, falzar"
-29,,Thunder(サンダーボール),electric,40,Pralyzing electric attack!,B: Central Area 2 GMDS: AquarumComp1 GMD*: Class6-1Comp BMD,"B,R,S,*",standard,"gregar, falzar"
-30,,DolThdr1(ドールサンダー１),electric,120,A piercng thunder attack!,"ScarCrow, RareCrowE: Sky Area 2 GMD (need Untrap?)","A,E,Q",standard,"gregar, falzar"
-31,,DolThdr2(ドールサンダー２),electric,150,A piercng thunder attack!,"ScrCrow2, RareCrow, RareCrw2","C,L,P",standard,"gregar, falzar"
-32,,DolThdr3(ドールサンダー３),electric,180,A piercng thunder attack!,"ScrCrow3, RareCrw2","B,R,V",standard,"gregar, falzar"
-33,,ElcPuls1(エレキパルス１),electric,100,Sprd elec puls that paralyzes,"PulsBulb, RarePulsBulb","J,L,S",standard,"gregar, falzar"
-34,,ElcPuls2(エレキパルス２),electric,120,Sprd elec pulse. Pul enemy in.,"PulsBulb2, RarePulsBulb, RarePulsBulb2","A,E,J",standard,"gregar, falzar"
-35,,ElcPuls3(エレキパルス３),electric,140,Sprd elec puls. Hit w/HP bug.,"PulsBulb3, RarePulsBulb2","A,J,S",standard,"gregar, falzar"
-36,,CornSht1(コーンショット１),wood,50,Damages enemies w/corn,L: Underground Area 2 GMD (need Untrap?),"J,K,L",standard,"gregar, falzar"
-37,,CornSht2(コーンショット２),wood,60,Damages enemies w/corn,,"C,D,E",standard,"gregar, falzar"
-38,,CornSht3(コーンショット３),wood,70,Damages enemies w/corn,,"P,Q,R",standard,"gregar, falzar"
-39,,RskyHny1(リスキーハニー１),wood,10,Bees attk whle hive defending,,"B,G,S",standard,"gregar, falzar"
-40,,RskyHny2(リスキーハニー２),wood,15,Bees attk whle hive defending,,"C,R,V",standard,"gregar, falzar"
-41,,RskyHny3(リスキーハニー３),wood,20,Bees attk whle hive defending,,"A,D,M",standard,"gregar, falzar"
-42,,RlngLog1(ローリングログ１),wood,50,Send out 2 logs 2pnl fwd,,"I,K,P",standard,"gregar, falzar"
-43,,RlngLog2(ローリングログ２),wood,70,Send out 2 logs 2pnl fwd,,"E,Q,Z",standard,"gregar, falzar"
-44,,RlngLog3(ローリングログ３),wood,90,Send out 2 logs 2pnl fwd,,"F,N,W",standard,"gregar, falzar"
-45,,IronShl1(アイアンシェル１),breaking,70,Fire off piercing shell.,,"J,K,L",standard,"gregar, falzar"
-46,,IronShl2(アイアンシェル２),breaking,100,Fire off piercing shell.,Armadil2GMD in Immortal Area (JP),"C,D,E",standard,"gregar, falzar"
-47,,IronShl3(アイアンシェル３),breaking,130,Fire off piercing shell.,,"B,C,D",standard,"gregar, falzar"
-48,,AuraHed1(オーラヘッド１),breaking,130,A flying head with 2spc tail,,"B,C,D",standard,"gregar, falzar"
-49,,AuraHed2(オーラヘッド２),breaking,150,A flying head with 2spc tail,HeadyHGMD in Immortal Area (JP),"D,E,F",standard,"gregar, falzar"
-50,,AuraHed3(オーラヘッド３),breaking,170,A flying head with 2spc tail,,"F,G,H",standard,"gregar, falzar"
-51,,AirHocky(エアホッケー),breaking,60,Bounce the puck off walls,L: Sky Area 2 GMDN: Aster Land normal stock (3800 Z),"L,M,N",standard,"gregar, falzar"
-52,,DrilArm(ドリルアーム),breaking,70,Knocks enmy 2sq away,G: Aster Land normal stock (5000 Z),"G,M,W",standard,"gregar, falzar"
-53,,Tornado(トルネード),wind,20,8hit strm 2 squares ahead,T: Central Area 1/2/3 in-battle GMD,"L,R,T",standard,"gregar, falzar"
-54,,Static(ノイズストーム),wind,20,A static blast 2sq ahead,V: Purchase from NetDealer in Graveyard Area for 14600z,"G,S,V",standard,"gregar, falzar"
-55,,MachGun1(マシンガン１),cursor,30,Fire 9sts at row w/clst enmy,"A: Gunner Rank 10-S T: Gunner Rank 6+ (Gregar), Seaside Area 3 GMD R: Gunner Rank 6+ (Falzar)*:","A,R,T,*",standard,"gregar, falzar"
-56,,MachGun2(マシンガン２),cursor,50,Fire 9sts at row w/clst enmy,S:,"E,G,S",standard,"gregar, falzar"
-57,,MachGun3(マシンガン３),cursor,70,Fire 9sts at row w/clst enmy,,"B,F,M",standard,"gregar, falzar"
-58,,MiniBomb(ミニボム),non-elemental,50,Throws a MiniBomb 3sq ahead,B: Folder1 x2L: Folder1 x2R: Central Area 2 GMD*: RobCtrlComp1 GMD,"B,L,R,*",standard,"gregar, falzar"
-59,,BigBomb(ビッグボム),non-elemental,140,Throws a 9 panl bomb 3panl fwd,V: Aster Land normal stock (9000 Z),"O,P,V",standard,"gregar, falzar"
-60,,EnergBom(エナジーボム),non-elemental,40,Throws a bomb 3sq ahead,C: RobCtrlComp2 GMDV: Seaside Area 2 GMD*:,"C,K,V,*",standard,"gregar, falzar"
-61,,MegEnBom(メガエナジーボム),non-elemental,60,Throws a bomb 3sq ahead,"G: Sky Area 1 GMDM: Seaside Area in-battle GMDO: Green Area 2 GMD, AquarumComp3 GMD*: Mr Weather Comp 3 GMD","G,M,O,*",standard,"gregar, falzar"
-62,,FlshBom1(フラッシュボム１),non-elemental,40,Thrw dlyd stun bomb 3sq fwd,Q:,"J,L,Q,*",standard,"gregar, falzar"
-63,,FlshBom2(フラッシュボム２),non-elemental,70,Thrw dlyd stun bomb 3sq fwd,,"G,K,R",standard,"gregar, falzar"
-64,,FlshBom3(フラッシュボム３),non-elemental,100,Thrw dlyd stun bomb 3sq fwd,,"G,K,R",standard,"gregar, falzar"
-65,,BlkBomb(ブラックボム),fire,250,Thrw shel 3sqr fwd. Fire attk,,"B,F,O",standard,"gregar, falzar"
-66,,BugBomb(バグボム),non-elemental,-,Throws a BugBomb 3sq ahead,Purchase from Mr. Famous in Aster Land for 8000 Z.,"G,S,V",standard,"gregar, falzar"
-67,,GrasSeed(クサムラシード),wood,-,Makes 9sq meadow 3sq ahead,S: Green Area 1 GMD,"A,F,S,*",standard,"gregar, falzar"
-68,,IceSeed(アイスシード),aqua,-,Makes 9sq ice field 3sq ahead,*: ACDC HP BMD,"A,L,R,*",standard,"gregar, falzar"
-69,,PoisSeed(ポイズンシード),non-elemental,-,Makes 9sq poisn swp 3sq ahead,P: Purchase from BugFrag Trader in Sky Area 1 for 48 BugFrags.,"H,N,P,*",standard,"gregar, falzar"
-70,,Sword(ソード),sword,80,Cuts enmy in front! Range: 1,L: Central Area 1 GMDS: Folder1 x4*: AquarumComp1 GMD,"H,L,S,*",standard,"gregar, falzar"
-71,,WideSwrd(ワイドソード),sword,80,Cuts enmy in front! Range: 3,"S: Folder1 x2, Central Area 2 GMD*: Green Area 2 GMD (need Untrap?), AquarumComp2 GMD","H,L,S,*",standard,"gregar, falzar"
-72,,LongSwrd(ロングソード),sword,100,Cuts enmy in front! Range: 2,"H: Central Area 3 GMD, RobCtrlComp2 GMD*: Underground Area 2 GMD","H,L,S,*",standard,"gregar, falzar"
-73,,WideBlde(ワイドブレード),sword,150,Cuts enmy in front! Range: 3,,"B,R,W",standard,"gregar, falzar"
-74,,LongBlde(ロングブレード),sword,150,Cuts enmy in front! Range: 2,BMD in Pavilion Comp 4M: Aster Land normal stock (6200 Z)GMD in Undernet 3 (JP),"B,M,V",standard,"gregar, falzar"
-75,,FireSwrd(フレイムソード),fire,140,Cut enmy 3sq fwrd w/fire,F: Swordy2 Rank 10-S O: Swordy2 Rank 6+ (Falzar) Z: Swordy2 Rank 6+ (Gregar),"F,O,Z",standard,"gregar, falzar"
-76,,AquaSwrd(アクアソード),aqua,160,Cut enmy 3sq fwrd w/aqua,,"A,I,Y",standard,"gregar, falzar"
-77,,ElecSwrd(エレキソード),electric,120,Cut enmy 3sq fwrd w/elec,E: Central Area 3 PMDGMD in Undernet 3 (JP),"E,K,N",standard,"gregar, falzar"
-78,,BambSwrd(バンブーソード),wood,150,Cut enmy 3sq fwrd w/wood,W: Purchase from NetDealer in Seaside Area 3 for 4200z.,"H,S,W",standard,"gregar, falzar"
-79,,WindRack(フウジンラケット),wind,140,Blow enmy in front! Range: 3,Purchase from NetDealer in ACDC Area for 7200 Z.GMD in Graveyard (Graveyard 2 for JP)Defeat the 4th Virus Battler in the Air Tank Comp for the first time. (JP),"F,J,R,*",standard,"gregar, falzar"
-80,,StepSwrd(フミコミザン),sword,160,Use WideSwrd 2sq ahead,,"B,L,P",standard,"gregar, falzar"
-81,,VarSwrd(バリアブルソード),sword,160,A magical shifting sword.,PMD in ACDC HPGMD in Immortal Area (JP),"K,V,W",standard,"gregar, falzar"
-82,,NeoVari(ネオバリアブル),sword,220,,N Purchase from BugFrag Trader in Sky Area 1 for 80 BugFrags. 80 BugFrags. (JP),N,standard,"gregar, falzar"
-83,,MoonBld(エンゲツクナイ),sword,130,Slices enemies around,M: Undernet in-battle GMD,"A,M,T",standard,"gregar, falzar"
-84,,Muramasa(ムラマサブレード),sword,???,Atk power equals amt of lostHP,M: Undernet 1 PMD,M,standard,"gregar, falzar"
-85,,MchnSwrd(マシーンソード),non-elemental,200,Search and hit stund enemies.,L: DarkMech Rank 10-S Q: DarkMech Rank 6+,"H,L,Q",standard,"gregar, falzar"
-86,,ElemSwrd(エレメントソード),non-elemental,220,"Cuts enmy on grass, ice, fire",,"J,M,U",standard,"gregar, falzar"
-87,,AssnSwrd(アサシンソード),non-elemental,240,When plyz cut enemy spec panl,,"N,R,Y",standard,"gregar, falzar"
-88,,CrakShot(クラックシュート),non-elemental,60,Shoot a panel at an enemy!,*: Folder1 x2,"A,G,T,*",standard,"gregar, falzar"
-89,,DublShot(ダブルシュート),non-elemental,60,Shoot 2 panels at an enemy!,R: Sky Area 1 GMD*:,"C,R,U,*",standard,"gregar, falzar"
-90,,TrplShot(トリプルシュート),non-elemental,100,Shoot 3 panels at an enemy!,L: Seaside Area 3 GMD*: Seaside Area 3 GMD,"J,L,V,*",standard,"gregar, falzar"
-91,,Rflectr1(リフレクメット１),non-elemental,60,Bounce an attk back at them!,A: Mettaur Rank 10-S. Seaside Area 1 GMD C: Mettaur Rank 6+ (Gregar) P: Mettaur Rank 6+ (Falzar),"A,C,P,*",standard,"gregar, falzar"
-92,,Rflectr2(リフレクメット２),non-elemental,120,Bounce an attk back at them!,B: Mettaur2 Rank 6+ (Gregar) G: Mettaur2 Rank 6+ (Falzar) Y: Mettaur2 Rank 10-S,"B,G,Y,*",standard,"gregar, falzar"
-93,,Rflectr3(リフレクメット３),non-elemental,200,Bounce an attk back at them!,E: Mettaur3 Rank 10-S (Gregar) F: Mettaur3 Rank 10-S (Falzar) O: Mettaur 3 Rank 6+,"E,F,O,*",standard,"gregar, falzar"
-94,,WaveArm1(ウェーブアーム１),non-elemental,80,Fllw enemy and fire trap wave,F: Underground Area 1 GMD,"E,F,G",standard,"gregar, falzar"
-95,,WaveArm2(ウェーブアーム２),non-elemental,120,Fllw enemy and fire trap wave,,"L,M,N",standard,"gregar, falzar"
-96,,WaveArm3(ウェーブアーム３),non-elemental,160,Fllw enemy and fire trap wave,,"R,S,T",standard,"gregar, falzar"
-97,,SandWrm1(サンドワーム１),non-elemental,130,Attk enmy from rear w/snakarm,,"A,G,L",standard,"gregar, falzar"
-98,,SandWrm2(サンドワーム２),non-elemental,150,Attk enmy from rear w/snakarm,,"B,R,Y",standard,"gregar, falzar"
-99,,SandWrm3(サンドワーム３),non-elemental,170,Attk enmy from rear w/snakarm,,"H,J,S",standard,"gregar, falzar"
-100,,SumnBlk1(サモンブラック１),non-elemental,160,Summon a Nghtmare attack!,,"E,I,P",standard,"gregar, falzar"
-101,,SumnBlk2(サモンブラック２),non-elemental,200,Summon a Nghtmare attack!,,"H,O,V",standard,"gregar, falzar"
-102,,SumnBlk3(サモンブラック３),non-elemental,260,Summon a Nghtmare attack!,,"W,Y,Z",standard,"gregar, falzar"
-103,,Snake(カモンスネーク),non-elemental,30,Call snke from hole in area.,L: Sky Area in-battle GMDPMD in Class 6-2 CompGMD in Graveyard 1 (JP),"H,L,M",standard,"gregar, falzar"
-104,,NumbrBl(ナンバーボール),non-elemental,???,Last 2 HP digits = atk pwr,N: Aster Land normal stock (12600 Z),N,standard,"gregar, falzar"
-105,,FireHit1(ファイアパンチ１),fire,60,Slams closest enemy,F: Seaside Area 1 GMD,"D,E,F",standard,"gregar, falzar"
-106,,FireHit2(ファイアパンチ２),fire,120,Slams closest enemy,,"R,S,T",standard,"gregar, falzar"
-107,,FireHit3(ファイアパンチ３),fire,180,Slams closest enemy,,"A,B,C",standard,"gregar, falzar"
-108,,BurnSqr1(バーンスクエア１),fire,100,Press A to burn a 4pnl sqr,,"H,P,V",standard,"gregar, falzar"
-109,,BurnSqr2(バーンスクエア２),fire,120,Press A to burn a 4pnl sqr,,"D,M,T",standard,"gregar, falzar"
-110,,BurnSqr3(バーンスクエア３),fire,140,Press A to burn a 4pnl sqr,,"E,O,Z",standard,"gregar, falzar"
-111,,Meteors(リュウセイグン),fire,40,Drop many meteor on enmy area,R: Graveyard Area in-battle GMD,R,standard,"gregar, falzar"
-112,,AquaNdl1(アクアニードル１),aqua,40,Target 3 needles at enemy!,C: Puffy Rank 10-S J: Puffy Rank 6+ (Falzar) P: Puffy Rank 6+ (Gregar),"C,J,P",standard,"gregar, falzar"
-113,,AquaNdl2(アクアニードル２),aqua,60,Target 3 needles at enemy!,,"F,K,T",standard,"gregar, falzar"
-114,,AquaNdl3(アクアニードル３),aqua,80,Target 3 needles at enemy!,,"A,L,U",standard,"gregar, falzar"
-115,,BlzrdBal(ブリザードボール),aqua,150,Launch a giant snowball,T: Purchase from NetDealer in Graveyard Area for 18400z,"H,N,T",standard,"gregar, falzar"
-116,,Sensor1(キラーセンサー１),electric,100,Hit enmy with beam from snsr,,"J,O,W",standard,"gregar, falzar"
-117,,Sensor2(キラーセンサー２),electric,130,Hit enmy with beam from snsr,,"N,U,Y",standard,"gregar, falzar"
-118,,Sensor3(キラーセンサー３),electric,160,Hit enmy with beam from snsr,,"I,K,Q",standard,"gregar, falzar"
-119,,Boomer(ブーメラン),wood,100,Boomerang that circ btl field,"J: Underground Area 2 GMD, Central Area 1/2/3 in-battle GMD T: JdgTreeComp2 GMD","J,K,T",standard,"gregar, falzar"
-120,,HiBoomer(ハイブーメラン),wood,140,Boomerang that circ btl field,Purchase from NetDealer in ACDC Area for 5000 Z.Obtain from a boy in Seaside Aquarium by trading a Double Shot CGMD in Immortal Area (JP),"B,L,V",standard,"gregar, falzar"
-121,,M-Boomer(メガブーメラン),wood,170,Boomerang that circ btl field,W: Purchase from NetDealer in Graveyard Area for 10000z,"I,M,W",standard,"gregar, falzar"
-122,,Lance(バンブーランス),wood,150,Lance through back line,W: Green Area 1 PMD,"A,R,W,*",standard,"gregar, falzar"
-123,,HeatDrgn(ヒートドラゴン),fire,140,Drgn near clst enmy Hit 2 rows,,"G,R,T",standard,"gregar, falzar"
-124,,ElecDrgn(エレキドラゴン),electric,150,Drgn near clst enmy Hit 2 rows,,"A,L,V",standard,"gregar, falzar"
-125,,AquaDrgn(アクアドラゴン),aqua,120,Drgn near clst enmy Hit 2 rows,,"H,P,S",standard,"gregar, falzar"
-126,,WoodDrgn(ウッドドラゴン),wood,130,Drgn near clst enmy Hit 2 rows,,"G,T,V",standard,"gregar, falzar"
-127,,GolmHit1(ゴーレムパンチ１),breaking,140,Hit 3pnl area arnd clst enmy,,"I,K,Y",standard,"gregar, falzar"
-128,,GolmHit2(ゴーレムパンチ２),breaking,190,Hit 3pnl area arnd clst enmy,,"D,P,U",standard,"gregar, falzar"
-129,,GolmHit3(ゴーレムパンチ３),breaking,250,Hit 3pnl area arnd clst enmy,,"H,M,V",standard,"gregar, falzar"
-130,,JustcOne(ジャスティスワン),breaking,220,Fist Atk on center panel,,J,standard,"gregar, falzar"
-131,,AirSpin1(エアホイール１),wind,50,Spits out hurricane attack,R: Seaside Area in-battle GMD,"F,G,R",standard,"gregar, falzar"
-132,,AirSpin2(エアホイール２),wind,50,,A: Undernet 2 GMD,"A,L,T",standard,"gregar, falzar"
-133,,AirSpin3(エアホイール３),wind,50,Spits out hurricane attack,T: Purchase from NetDealer in Undernet Zero for 12900 Z.BMD in Immortal Area (JP)Number Lotto 71757977,"N,O,T",standard,"gregar, falzar"
-134,,Wind(トップウ),wind,-,Windbox blows at enmy area,,*,standard,"gregar, falzar"
-135,,Fan(スイコミ),wind,-,VacuumFn pulls enemy in,,*,standard,"gregar, falzar"
-136,,Magnum(マグナム),cursor,130,,Purchase from NetDealer in ACDC Area for 8800 Z.,"F,L,W",standard,"gregar, falzar"
-137,,CircGun(サークルガン),cursor,150,Stop sght w/Button and attck,P: Underground Area 1 PMD,"P,T,V",standard,"gregar, falzar"
-138,,RockCube(ストーンキューブ),obstacle,-,Place a RockCube in front,*: Green Area 2 GMD,*,standard,"gregar, falzar"
-139,,LilBolr1(リトルボイラー１),obstacle,100,3pnl fwd Kttl attk Attack+,,"F,K,L",standard,"gregar, falzar"
-140,,LilBolr2(リトルボイラー２),obstacle,140,3pnl fwd Kttl attk Attack+,,"E,M,V",standard,"gregar, falzar"
-141,,LilBolr3(リトルボイラー３),obstacle,180,3pnl fwd Kttl attk Attack+,,"G,S,Z",standard,"gregar, falzar"
-142,,AirRaid1(エアレイド１),obstacle,10,Attk enmy w/flying FgtrPlne.,G:FgtrPlne Rank 6+ (Gregar) K: FgtrPlne Rank 10-S R: FgtrPlne Rank 6+ (Falzar),"G,K,R",standard,"gregar, falzar"
-143,,AirRaid2(エアレイド２),obstacle,10,Attk enmy w/flying FgtrPlne.,,"O,T,Y",standard,"gregar, falzar"
-144,,AirRaid3(エアレイド３),obstacle,10,Attk enmy w/flying FgtrPlne.,,"N,U,Z",standard,"gregar, falzar"
-145,,TimeBom1(カウントボム１),obstacle,150,,F: ACDC Area GMD H: Purchase from NetDealer in Seaside Area 3 for 8800z,"F,G,H",standard,"gregar, falzar"
-146,,TimeBom2(カウントボム２),obstacle,190,Explodes 3 seconds later,E: Sky Area in-battle GMDGMD in Pavilion Comp 2GMD in Graveyard 1 (JP),"C,D,E",standard,"gregar, falzar"
-147,,TimeBom3(カウントボム３),obstacle,230,Explodes 3 seconds later,L: Purchase from NetDealer in Undernet Zero for 15200 Z.BMD in Graveyard 1. Requires Cloud Gate to be opened. (JP)Number Lotto 23722234Obtain from man in Green Town Court Foyer by trading a Holy Panel S.,"L,M,N",standard,"gregar, falzar"
-148,,Mine(ステルスマイン),obstacle,200,Place a mine in enmy area,S: Purchase from BugFrag Trader in Sky Area 1 for 36 BugFrags.GMD in Undernet 3 (JP),"A,S,T",standard,"gregar, falzar"
-149,,Fanfare(オウエンカ),obstacle,-,Take no dmage for a while,Z: Trumpy Rank 10-S,"P,S,Z,*",standard,"gregar, falzar"
-150,,Discord(ディスコード),obstacle,-,Confuses enemies w/music,S: Tuby Rank 6+,"A,G,S,*",standard,"gregar, falzar"
-151,,Timpani(ティンパニー),obstacle,-,Stop enmy feet with music,,"I,O,T,*",standard,"gregar, falzar"
-152,,Silence(サイレンス),obstacle,-,Blinds enemies w/music,,"B,R,W,*",standard,"gregar, falzar"
-153,,VDoll(ワラニンギョウ),obstacle,-,Throws VDoll 3sq ahead,S: Underground Area in-battle GMD,"F,N,S,*",standard,"gregar, falzar"
-154,,Guardian(オジゾウサン),obstacle,200,Statue punishes when hit,O: Punishment Chair Comp PMD,O,standard,"gregar, falzar"
-155,,Anubis(ポイズナヌビス),obstacle,-,Anubis poisons enemies,"P: PMD in Graveyard (Graveyard 2 for JP), Aster Land Order Service (27200 Z)",P,standard,"gregar, falzar"
-156,,Recov10(リカバリー１０),non-elemental,-,Recovers 10HP,A: Folder1 x2L: Folder1 x2*: Central Area 1 GMD,"A,D,L,*",standard,"gregar, falzar"
-157,,Recov30(リカバリー３０),non-elemental,-,Recovers 30HP,"Q: Central Area 3 GMD*: RobCtrlComp2 BMD, Central Area 2 NetDealer (1000 Z)","E,L,Q,*",standard,"gregar, falzar"
-158,,Recov50(リカバリー５０),non-elemental,-,Recovers 50HP,C: Seaside Area 1 GMD*: AquarumComp2 GMD,"C,M,P",standard,"gregar, falzar"
-159,,Recov80(リカバリー８０),non-elemental,-,Recovers 80HP,"H: AquarumComp3 GMD, Tab's Chip Order K: Purchase from NetDealer in Seaside Area 3 for 3000zV: Green Area 1 GMD*: Sky Area 2 GMD","H,K,V,*",standard,"gregar, falzar"
-160,,Recov120(リカバリー１２０),non-elemental,-,Recovers 120HP,,"F,P,S",standard,"gregar, falzar"
-161,,Recov150(リカバリー１５０),non-elemental,-,Recovers 150HP,BMD in Undernet Zero. Requires Water Gate to be open.GMD in Undernet 3 (JP),"J,M,T",standard,"gregar, falzar"
-162,,Recov200(リカバリー２００),non-elemental,-,Recovers 200HP,BMD in Pavilion Comp 1GMD in Graveyard 1 (JP),"I,Q,Z",standard,"gregar, falzar"
-163,,Recov300(リカバリー３００),non-elemental,-,Recovers 300HP,J: Graveyard in-battle GMD,"J,O,Y",standard,"gregar, falzar"
-164,,PanlGrab(パネルスチール),non-elemental,-,Steals 1 enemy square!,*: Seaside Area 3 GMD,*,standard,"gregar, falzar"
-165,,AreaGrab(エリアスチール),non-elemental,-,Steals left edge from enmy,B: RobCtrlComp1 GMDF: Sky Area 1 GMDS: Folder1 x1*:,"B,F,S,*",standard,"gregar, falzar"
-166,,GrabBnsh(スチールパニシュ),non-elemental,-,20 damage for every stolen sq,,"B,M,S",standard,"gregar, falzar"
-167,,GrabRvng(スチールリベンジ),non-elemental,-,40 damage for every stolen sq,Q: Purchase from BugFrag Trader in Sky Area 1 for 65 BugFrags.,"I,Q,Z",standard,"gregar, falzar"
-168,,PnlRetrn(パネルリターン),non-elemental,-,Fix your area's panels,*: Seaside Area 2 BMD,*,standard,"gregar, falzar"
-169,,Geddon(デスマッチ),non-elemental,-,Breaks all empty panels,,"A,L,R,*",standard,"gregar, falzar"
-170,,HolyPanl(ホーリパネル),non-elemental,-,Creates a HolyPanl in front,A: Green Area 2 BMD,"A,B,S,*",standard,"gregar, falzar"
-171,,Snctuary(サンクチュアリ),non-elemental,-,Chng all own panel to holy,Z: Purchase from NetDealer in Undernet Zero for 15200 Z.BMD in Immortal Area (JP),Z,standard,"gregar, falzar"
-172,,ComingRd(カミングロード),non-elemental,-,Pull an enemy to the front,,*,standard,"gregar, falzar"
-173,,GoingRd(ゴーイングロード),non-elemental,-,Push an enemy to the back,,*,standard,"gregar, falzar"
-174,,SloGauge(ヘビーゲージ),non-elemental,-,CustGauge slow-down,Purchase from Mr. Famous in Aster Land for 5800 Z.,"A,B,G,*",standard,"gregar, falzar"
-175,,FstGauge(クイックゲージ),non-elemental,-,CustGauge speed-up,Purchase from NetDealer in ACDC Area for 12000 Z.,"E,M,R,*",standard,"gregar, falzar"
-176,,FullCust(フルカスタム),non-elemental,-,CustGauge instantly refills,*: Aster Land normal stock (7800 Z),*,standard,"gregar, falzar"
-177,,BusterUp(バスターアップ),plus,-,Power goes up by 1,"*: Folder1 x1, Seaside Area 2 GMD",*,standard,"gregar, falzar"
-178,,BugFix(バグシュウセイ),non-elemental,-,Repairs & removes bugs,P: Oxygen Tank Comp PMD,"K,P,Z,*",standard,"gregar, falzar"
-179,,Invisibl(インビジブル),non-elemental,-,Invisible for a while,"*: Seaside Area 2 GMD, AquarumComp2 GMD",*,standard,"gregar, falzar"
-180,,Barrier(バリア),non-elemental,-,Nullifies 10 HP of damage,A: Central Area 1 GMD*: RobCtrlComp1 GMD,"A,F,R,*",standard,"gregar, falzar"
-181,,Barr100(バリア１００),non-elemental,-,Nullifies 100 HP of damage,H: Purchase from NetDealer in Seaside Area 3 for 3800z,"H,O,Y",standard,"gregar, falzar"
-182,,Barr200(バリア２００),non-elemental,-,Nullifies 200 HP of damage,K: Purchase from NetDealer in Undernet Zero for 11200 Z.BMD in Undernet 3 (JP),"K,U,W",standard,"gregar, falzar"
-183,,BblWrap(バブルラップ),aqua,-,Weak against elec atk,Q: Purchase from BugFrag Trader in Sky Area 1 for 24 BugFrags.,"I,Q,Z",standard,"gregar, falzar"
-184,,LifeAur(ドリームオーラ),non-elemental,-,Repel all attacks under200,U: Purchase from NetDealer in Undernet Zero for 22400 Z.PMD in Undernet 3 (JP),U,standard,"gregar, falzar"
-185,,MagCoil(マグネコイル),non-elemental,-,Draw in enmy with mag force,,*,standard,"gregar, falzar"
-186,,ColArmy(カーネルアーミー),non-elemental,40,Launch an attk with Col. army,B: Sky Area 1 BMD,"B,G,R,*",standard,"gregar, falzar"
-187,,ElemTrap(エレメントラップ),non-elemental,240,Trap enmy and attk with elem,Purchase from Mr. Famous in Aster Land for 10600 Z.,"G,S,U",standard,"gregar, falzar"
-188,,AntiNavi(ナビスカウト),non-elemental,-,Takes the enemy's Navi away,Purchase from Mr. Famous in Aster Land for 9200 Z.,"F,L,T,*",standard,"gregar, falzar"
-189,,AntiDmg(カワリミ),non-elemental,100,Sets trap and throw stars,*: Underground Area in-battle GMD,"G,R,V,*",standard,"gregar, falzar"
-190,,AntiSwrd(シラハドリ),non-elemental,100,Retaliate for sword damage,,"A,R,Z,*",standard,"gregar, falzar"
-191,,AntiRecv(バッドメディスン),non-elemental,-,,Purchase from Mr. Famous in Aster Land for 6900 Z.,"A,F,V,*",standard,"gregar, falzar"
-192,,WhiCapsl(ホワイトカプセル),non-elemental,-,Add an effect: Paralyze,*: Folder1 x1,*,standard,"gregar, falzar"
-193,,Uninstll(アンインストール),non-elemental,-,,Purchase from Mr. Famous in Aster Land for 12000 Z.,"G,L,R",standard,"gregar, falzar"
-194,,CopyDmg(コピーダメージ),cursor,-,Duplicate damage to 2nd enemy,*: Central Area 2 BMD,*,standard,"gregar, falzar"
-195,,LifeSync(ライフシンクロ),cursor,-,Makes HP same as enemy,*: AquarumComp1 BMD,*,standard,"gregar, falzar"
-196,,Atk+10(アタック＋１０),plus,-,+10 for selected atk chip,"*: Folder1 x2, Central Area 2 GMD",*,standard,"gregar, falzar"
-197,,Atk+30(アタック＋３０),plus,-,+30 for selected atk chip,*:,*,standard,"gregar, falzar"
-198,,Navi+20(ナビ＋２０),plus,-,+20 for selected Navi chip,*: Undernet in-battle GMD,*,standard,"gregar, falzar"
-199,,ColorPt(カラーポイント),plus,-,+10 for next chip attack,"*: AirConditionerComp BMD, Mr Weather Comp 1 GMD",*,standard,"gregar, falzar"
-200,,DblPoint(ダブルポイント),plus,-,+20 for next chip attack,"*: Sky Area 1 BMD, Immortal Area in-battle GMD(JP)",*,standard,"gregar, falzar"
-201,,Roll(ロール),non-elemental,20,"Attacks enmy, then heals you","Obtained in email from Mayl Sakurai during the story.Reward from request ""Track the Criminal"".","R,*",mega,"gregar, falzar"
-202,,Roll2(ロール２),non-elemental,40,"Attacks enmy, then heals you",Obtained in email from Mayl during the story.,R,mega,"gregar, falzar"
-203,,Roll3(ロール３),non-elemental,60,"Attacks enmy, then heals you",Talk to Mayl in Lan's house during the final chapter of the game.,R,mega,"gregar, falzar"
-204,,ProtoMan(ブルース),sword,150,Move in and slice the enemy,"ProtoMan v1/EX/SPReward from request ""Track the Criminal""","B,*",mega,"gregar, falzar"
-205,,ProtoMnEX(ブルースＥＸ),sword,170,Move in and slice the enemy,ProtoMan EX/SP,B,mega,"gregar, falzar"
-206,,ProtoMnSP(ブルースＳＰ),sword,190-290,Move in and slice the enemy,ProtoMan SP,B,mega,"gregar, falzar"
-207,,BlastMan(ブラストマン),fire,120,Head fwd & launch blst attk,BlastMan EX/SPLotto Number 24616497,"H,*",mega,"gregar, falzar"
-208,,BlastMnEX(ブラストマンＥＸ),fire,140,Head fwd & launch blst attk,BlastMan EX/SP,H,mega,"gregar, falzar"
-209,,BlastMnSP(ブラストマンＳＰ),fire,150-250,Head fwd & launch blst attk,BlastMan SP,H,mega,"gregar, falzar"
-210,,DiveMan(ダイブマン),aqua,130,Snd giant wave acrs area 2pnl,DiveMan EX/SPLotto Number 32310827,"D,*",mega,"gregar, falzar"
-211,,DiveManEX(ダイブマンＥＸ),aqua,150,Snd giant wave acrs area 2pnl,DiveMan EX/SP,D,mega,"gregar, falzar"
-212,,DiveManSP(ダイブマンＳＰ),aqua,170-270,Snd giant wave acrs area 2pnl,DiveMan SP,D,mega,"gregar, falzar"
-213,,CrcusMan(サーカスマン),non-elemental,20,Capture enmy in a ash attck,"CircusMan EX/SPReward from request ""An Experiment!""","C,*",mega,"gregar, falzar"
-214,,CrcusMnEX(サーカスマンＥＸ),non-elemental,25,Capture enmy in a ash attck,CircusMan EX/SP,C,mega,"gregar, falzar"
-215,,CrcusMnSP(サーカスマンＳＰ),non-elemental,30-55,Capture enmy in a ash attck,CircusMan SP,C,mega,"gregar, falzar"
-216,,JudgeMan(ジャッジマン),electric,100,Whip 3 panels forward,"JudgeMan EX/SPReward from request ""An Experiment!""","J,*",mega,"gregar, falzar"
-217,,JudgeMnEX(ジャッジマンＥＸ),electric,120,Whip 3 panels forward,JudgeMan EX/SP,J,mega,"gregar, falzar"
-218,,JudgeMnSP(ジャッジマンＳＰ),electric,140-190,Whip 3 panels forward,JudgeMan SP,J,mega,"gregar, falzar"
-219,,ElmntMan(エレメントマン),non-elemental,100,Hit (A) whn col chges elem attk,"ElementMan EX/SPReward from request ""An Experiment!""","E,*",mega,"gregar, falzar"
-220,,ElmntMnEX(エレメントマンＥＸ),non-elemental,120,Hit (A) whn col chges elem attk,ElementMan EX/SP,E,mega,"gregar, falzar"
-221,,ElmntMnSP(エレメントマンＳＰ),non-elemental,140-240,Hit (A) whn col chges elem attk,ElementMan SP,E,mega,"gregar, falzar"
-222,,Colonel(カーネル),sword,160,Cut enmy lines in Z shape,"Colonel EX/SPReward from request ""Track the criminal""","C,*",mega,"gregar, falzar"
-223,,ColonelEX(カーネルＥＸ),sword,180,Cut enmy lines in Z shape,Colonel EX/SP,C,mega,"gregar, falzar"
-224,,ColonelSP(カーネルＳＰ),sword,200-300,Cut enmy lines in Z shape,Colonel SP,C,mega,"gregar, falzar"
-225,,HeatMan(ヒートマン),fire,100,Burn with a radial fire attk,HeatMan v1/EX/SPLotto Number 12404002,"H,*",mega,gregar
-226,,HeatManEX(ヒートマンＥＸ),fire,130,Burn with a radial fire attk,HeatMan EX/SP,H,mega,gregar
-227,,HeatManSP(ヒートマンＳＰ),fire,160-260,Burn with a radial fire attk,HeatMan SP,H,mega,gregar
-228,,ElecMan(エレキマン),electric,120,Attk your surrndns with thdr,ElecMan v1/EX/SPLotto Number30424514,"E,*",mega,gregar
-229,,ElecManEX(エレキマンＥＸ),electric,140,Attk your surrndns with thdr,ElecMan EX/SP,E,mega,gregar
-230,,ElecManSP(エレキマンＳＰ),electric,160-210,Attk your surrndns with thdr,ElecMan SP,E,mega,gregar
-231,,SlashMan(スラッシュマン),sword,80,Slash an enmy w/ flyn knfe,SlashMan v1/EX/SPLotto Number 55910601,"S,*",mega,gregar
-232,,SlashMnEX(スラッシュマンＥＸ),sword,100,Slash an enmy w/ flyn knfe,SlashMan EX/SP,"S,*",mega,gregar
-233,,SlashMnSP(スラッシュマンＳＰ),sword,120-220,Slash an enmy w/ flyn knfe,SlashMan SP,"S,*",mega,gregar
-234,,EraseMan(キラーマン),cursor,120,Press (A) for 3panl beam attk,EraseMan v1/EX/SPLotto Number 84387543,"K,*",mega,gregar
-235,,EraseMnEX(キラーマンＥＸ),cursor,140,Press (A) for 3panl beam attk,EraseMan EX/SP,K,mega,gregar
-236,,EraseMnSP(キラーマンＳＰ),cursor,160-210,Press (A) for 3panl beam attk,EraseMan SP,K,mega,gregar
-237,,ChrgeMan(チャージマン),non-elemental,60,Rush fwd! Open panl hit TrCar,ChargeMan v1/EX/SPLotto Number 92070765,"C,*",mega,gregar
-238,,ChrgeMnEX(チャージマンＥＸ),non-elemental,70,Rush fwd! Open panl hit TrCar,ChargeMan EX/SP,C,mega,gregar
-239,,ChrgeMnSP(チャージマンＳＰ),non-elemental,80-130,Rush fwd! Open panl hit TrCar,ChargeMan SP,C,mega,gregar
-240,,SpoutMan(アクアマン),aqua,50,Watr atk! Bhnd 2row power-up,SpoutMan v1/EX/SPLotto Number 51702791,"A,*",mega,falzar
-241,,SpoutMnEX(アクアマンＥＸ),aqua,60,Watr atk! Bhnd 2row power-up,SpoutMan EX/SP,A,mega,falzar
-242,,SpoutMnSP(アクアマンＳＰ),aqua,70-120,Watr atk! Bhnd 2row power-up,SpoutMan SP,A,mega,falzar
-243,,TmhkMan(トマホークマン),wood,140,"Slice 2sq side, 3sq vertical",TomahawkMan v1/EX/SPLotto Number 67520179,"T,*",mega,falzar
-244,,TmhkManEX(トマホークマンＥＸ),wood,160,"Slice 2sq side, 3sq vertical",TomahawkMan EX/SP,T,mega,falzar
-245,,TmhkManSP(トマホークマンＳＰ),wood,180-280,"Slice 2sq side, 3sq vertical",TomahawkMan SP,T,mega,falzar
-246,,TenguMan(テングマン),wind,70,"Attk 2row from air, then side",TenguMan v1/EX/SPLotto Number 00297421,"T,*",mega,falzar
-247,,TenguMnEX(テングマンＥＸ),wind,90,"Attk 2row from air, then side",TenguMan EX/SP,T,mega,falzar
-248,,TenguMnSP(テングマンＳＰ),wind,110-160,"Attk 2row from air, then side",TenguMan SP,T,mega,falzar
-249,,GrndMan(グランドマン),breaking,60,Move fwrd then attk w/ drill,GroundMan v1/EX/SPLotto Number 10414878,"G,*",mega,falzar
-250,,GrndManEX(グランドマンＥＸ),breaking,70,Move fwrd then attk w/ drill,GroundMan EX/SP,G,mega,falzar
-251,,GrndManSP(グランドマンＳＰ),breaking,80-130,Move fwrd then attk w/ drill,GroundMan SP,G,mega,falzar
-252,,DustMan(ダストマン),non-elemental,110,Attk ahd. Suck in & shoot out,DustMan v1/EX/SPLotto Number 79814666,"D,*",mega,falzar
-253,,DustManEX(ダストマンＥＸ),non-elemental,130,Attk ahd. Suck in & shoot out,DustMan EX/SP,D,mega,falzar
-254,,DustManSP(ダストマンＳＰ),non-elemental,150-200,Attk ahd. Suck in & shoot out,DustMan SP,D,mega,falzar
-255,,Bass(フォルテ),non-elemental,60,Buster rake wide enmy area,Defeat Bass SP in Graveyard Area.,F,giga,gregar
-256,,BigHook(ギガントフック),breaking,240,Hook atk 2 sq wide,Obtain from email when you enter the Graveyard Area.,H,giga,gregar
-257,,DeltaRay(デルタレイエッジ),sword,260,A button power up by 3 swrd,Purchase from NetDealer in Graveyard Area for 30000 Z.,Z,giga,gregar
-258,,ColForce(カーネルフォース),non-elemental,30,Smn Col. army in open pnls,Defeat Bass BX in Underground Area 2.,Q,giga,gregar
-259,,BugRSwrd(バグライズソード),sword,-,Use Bug Frag with DrkSword!(Sword; if 0 Bug Frags remained),Purchase from BugFrag Trader in Sky Area 1 for 100 BugFrags.,V,giga,gregar
-260,,BassAnly(フォルテアナザー),non-elemental,160,A ring that hits 4 times,Defeat Bass SP in Graveyard Area.,F,giga,falzar
-261,,MetrKnuk(メテオナックル),breaking,100,Meteors bombard from sky,Obtain from email when you enter the Graveyard Area.,H,giga,falzar
-262,,CrossDiv(クロスディバイド),non-elemental,250,Cross-slice!,Purchase from NetDealer in Graveyard Area for 30000 Z.,Z,giga,falzar
-263,,HubBatc(サイトバッチ),non-elemental,-,Blend Hub DNA Data w/MegaMan,Defeat Bass BX in Underground Area 2.,Q,giga,falzar
-264,,BgDthThd(バグデスサンダー),electric,,Use Bug Frag with DarkThnd!(Thunder; if 0 Bug Frags remained),Purchase from BugFrag Trader in Sky Area 1 for 100 BugFrags.,V,giga,falzar
+﻿#,Image,Name,Type,Damage,Description,Location,Codes,Class,version,megaBytes
+1,,Cannon(キャノン),non-elemental,40,Cannon attack to 1 enemy,A: Folder1 x2B: Folder1 x2C: RobCtrlComp1 GMD*: RobCtrlComp2 GMD,"A, B, C, *",standard,"gregar, falzar",6
+2,,HiCannon(ハイキャノン),non-elemental,100,Cannon attack to 1 enemy,"L: Central Area 3 BMD, AquarumComp1 GMDM: AquarumComp3 BMD, Green Area 1 GMDN: Seaside Area 1 GMD*: JdgTreeComp1 GMD","L,M,N,*",standard,"gregar, falzar",24
+3,,M-Cannon(メガキャノン),non-elemental,180,Cannon attack to 1 enemy,R: Mr Weather Comp 3 GMDS: Sky Area 2 BMDT: AquarumComp3 GMD*: MascotComp BMD,"R,S,T,*",standard,"gregar, falzar",38
+4,,AirShot(エアシュート),wind,20,Knock enmy back 1 square,*: Folder1 x2,*,standard,"gregar, falzar",4
+5,,Vulcan1(バルカン１),non-elemental,10,3-shot to pierce 1 panel!,"B: Central Area 1 GMDD: Folder1 x3, Central Area 3 GMDS: ?*: RobCtrlComp2 GMD","B,D,S,*",standard,"gregar, falzar",5
+6,,Vulcan2(バルカン２),non-elemental,15,4-shot to pierce 1 panel!,D: JdgTreeComp1 GMDF: AquarumComp2 GMDL: Green Area 1 GMD,"D,F,L",standard,"gregar, falzar",18
+7,,Vulcan3(バルカン３),non-elemental,20,5-shot to pierce 1 panel!,G: Sky Area 2 GMD (need Untrap?),"A,G,R",standard,"gregar, falzar",30
+8,,SuprVulc(スーパーバルカン),non-elemental,20,10-shot vulcan cannon!,V: PMD in Underground 2 (JP)Beat the 5th Virus Battler in Central Area 1 for the first time (INT),V,standard,"gregar, falzar",75
+9,,Spreadr1(スプレッドガン１),non-elemental,30,Spreads damg to adj panels,L: Central Area 2 NetDealer (600 Z)M: RobCtrlComp1 BMDN: Central Area 3 GMD*: Seaside Area 1 GMD,"L,M,N,*",standard,"gregar, falzar",10
+10,,Spreadr2(スプレッドガン２),non-elemental,60,Spreads damg to adj panels,A: AquarumComp3 GMDB: Green Area 2 GMD (need Untrap?)C: Green Area 1 BMD*:,"A,B,C,*",standard,"gregar, falzar",18
+11,,Spreadr3(スプレッドガン３),non-elemental,90,Spreads damg to adj panels,,"Q,R,S,*",standard,"gregar, falzar",26
+12,,TankCan1(センシャホウ１),non-elemental,120,3sqr blst if hits end row,CatackA: Catack Rank 10-SG: Catack Rank 7-9 (Gregar)R: Central Area 2 NetDealer (2400 Z),"A,G,R",standard,"gregar, falzar",17
+13,,TankCan2(センシャホウ２),non-elemental,160,3sqr blst if hits end row,"Cateen, RareCatack","L,S,V",standard,"gregar, falzar",28
+14,,TankCan3(センシャホウ３),non-elemental,200,3sqr blst if hits end row,"Catpult, RareCatack2","B,M,P",standard,"gregar, falzar",39
+15,,GunDelS1(ガンデルソル１),non-elemental,-,Hits row 2pnl ahd w/sunshne,C: Aster Land normal stock (1000 Z)M: Undernet Zero GMDT: Underground Area 1 GMD*:,"C,M,T,*",standard,"gregar, falzar",15
+16,,GunDelS2(ガンデルソル２),non-elemental,-,Hits row 2pnl ahd w/sunshne,E: Pavillion Comp 2 BMDR: Graveyard (JP: Graveyard 2) GMD,"B,E,R",standard,"gregar, falzar",30
+17,,GunDelS3(ガンデルソル３),non-elemental,-,Hits row 2pnl ahd w/sunshne,N: Purchase from NetDealer in Undernet Zero for 12000 Z.In-battle GMD in Immortal Area (JP),"N,Q,W",standard,"gregar, falzar",38
+18,,YoYo(ヨーヨー),non-elemental,50,YoYo atk reaches 3sq ahead,L: Central Area 2 NetDealer (4600 Z)M: AquarumComp1 GMDN: JdgTreeComp2 BMD*: BookComp BMD,"L,M,N,*",standard,"gregar, falzar",32
+19,,FireBrn1(ヘルズバーナー１),fire,70,Crcks 3 sqrs ahd with fire,"OldStov, RareOldStovH: Seaside Area 3 GMD","F,G,H,*",standard,"gregar, falzar",8
+20,,FireBrn2(ヘルズバーナー２),fire,110,Crcks 3 sqrs ahd with fire,"OldHeatr, RareOldStov, RareOldStov2S: OldHeatr Rank 10-S","S,T,U",standard,"gregar, falzar",21
+21,,FireBrn3(ヘルズバーナー３),fire,150,Crcks 3 sqrs ahd with fire,"OldBurnr, RareOldStov2","C,D,E",standard,"gregar, falzar",34
+22,,WideSht(ワイドショット),wind,100,Fires 3sq shotgun blast!,P: Aster Land normal stock (7000 Z)Q: Underground Area 1 GMDR: Underground Area 2 GMD (need Untrap),"P,Q,R",standard,"gregar, falzar",34
+23,,TrnArrw1(トレインアロー１),aqua,30,Hits enmy w/arrow. Use dstnc,"Piranha, RarePiranhaA: Piranha Rank 10-S, Sky Area 1 GMDF: Piranha Rank 6+ (Falzar)K: Piranha Rank 6+ (Gregar)","A,F,K",standard,"gregar, falzar",30
+24,,TrnArrw2(トレインアロー２),aqua,40,Hits enmy w/arrow. Use dstnc,"Piranha2, RarePiranha, RarePiranha2","G,M,Z",standard,"gregar, falzar",36
+25,,TrnArrw3(トレインアロー３),aqua,50,Hits enmy w/arrow. Use dstnc,"Piranha3, RarePiranha2","M,S,Y",standard,"gregar, falzar",42
+26,,BblStar1(バブルスター１),aqua,60,Seals an enemy in a bubble.,"Starfish, RareStarfishE: Underground Area 1 GMD","B,E,T",standard,"gregar, falzar",30
+27,,BblStar2(バブルスター２),aqua,80,Seals an enemy in a bubble.,"Starfsh2, RareStarfish, RareStarfish2","C,L,V",standard,"gregar, falzar",38
+28,,BblStar3(バブルスター３),aqua,100,Seals an enemy in a bubble.,Starfsh3,"G,R,S",standard,"gregar, falzar",46
+29,,Thunder(サンダーボール),electric,40,Pralyzing electric attack!,B: Central Area 2 GMDS: AquarumComp1 GMD*: Class6-1Comp BMD,"B,R,S,*",standard,"gregar, falzar",7
+30,,DolThdr1(ドールサンダー１),electric,120,A piercng thunder attack!,"ScarCrow, RareCrowE: Sky Area 2 GMD (need Untrap?)","A,E,Q",standard,"gregar, falzar",24
+31,,DolThdr2(ドールサンダー２),electric,150,A piercng thunder attack!,"ScrCrow2, RareCrow, RareCrw2","C,L,P",standard,"gregar, falzar",31
+32,,DolThdr3(ドールサンダー３),electric,180,A piercng thunder attack!,"ScrCrow3, RareCrw2","B,R,V",standard,"gregar, falzar",38
+33,,ElcPuls1(エレキパルス１),electric,100,Sprd elec puls that paralyzes,"PulsBulb, RarePulsBulb","J,L,S",standard,"gregar, falzar",32
+34,,ElcPuls2(エレキパルス２),electric,120,Sprd elec pulse. Pul enemy in.,"PulsBulb2, RarePulsBulb, RarePulsBulb2","A,E,J",standard,"gregar, falzar",36
+35,,ElcPuls3(エレキパルス３),electric,140,Sprd elec puls. Hit w/HP bug.,"PulsBulb3, RarePulsBulb2","A,J,S",standard,"gregar, falzar",40
+36,,CornSht1(コーンショット１),wood,50,Damages enemies w/corn,L: Underground Area 2 GMD (need Untrap?),"J,K,L",standard,"gregar, falzar",14
+37,,CornSht2(コーンショット２),wood,60,Damages enemies w/corn,,"C,D,E",standard,"gregar, falzar",26
+38,,CornSht3(コーンショット３),wood,70,Damages enemies w/corn,,"P,Q,R",standard,"gregar, falzar",38
+39,,RskyHny1(リスキーハニー１),wood,10,Bees attk whle hive defending,,"B,G,S",standard,"gregar, falzar",21
+40,,RskyHny2(リスキーハニー２),wood,15,Bees attk whle hive defending,,"C,R,V",standard,"gregar, falzar",28
+41,,RskyHny3(リスキーハニー３),wood,20,Bees attk whle hive defending,,"A,D,M",standard,"gregar, falzar",35
+42,,RlngLog1(ローリングログ１),wood,50,Send out 2 logs 2pnl fwd,,"I,K,P",standard,"gregar, falzar",14
+43,,RlngLog2(ローリングログ２),wood,70,Send out 2 logs 2pnl fwd,,"E,Q,Z",standard,"gregar, falzar",26
+44,,RlngLog3(ローリングログ３),wood,90,Send out 2 logs 2pnl fwd,,"F,N,W",standard,"gregar, falzar",38
+45,,IronShl1(アイアンシェル１),breaking,70,Fire off piercing shell.,,"J,K,L",standard,"gregar, falzar",13
+46,,IronShl2(アイアンシェル２),breaking,100,Fire off piercing shell.,Armadil2GMD in Immortal Area (JP),"C,D,E",standard,"gregar, falzar",20
+47,,IronShl3(アイアンシェル３),breaking,130,Fire off piercing shell.,,"B,C,D",standard,"gregar, falzar",27
+48,,AuraHed1(オーラヘッド１),breaking,130,A flying head with 2spc tail,,"B,C,D",standard,"gregar, falzar",25
+49,,AuraHed2(オーラヘッド２),breaking,150,A flying head with 2spc tail,HeadyHGMD in Immortal Area (JP),"D,E,F",standard,"gregar, falzar",33
+50,,AuraHed3(オーラヘッド３),breaking,170,A flying head with 2spc tail,,"F,G,H",standard,"gregar, falzar",39
+51,,AirHocky(エアホッケー),breaking,60,Bounce the puck off walls,L: Sky Area 2 GMDN: Aster Land normal stock (3800 Z),"L,M,N",standard,"gregar, falzar",19
+52,,DrilArm(ドリルアーム),breaking,70,Knocks enmy 2sq away,G: Aster Land normal stock (5000 Z),"G,M,W",standard,"gregar, falzar",32
+53,,Tornado(トルネード),wind,20,8hit strm 2 squares ahead,T: Central Area 1/2/3 in-battle GMD,"L,R,T",standard,"gregar, falzar",16
+54,,Static(ノイズストーム),wind,20,A static blast 2sq ahead,V: Purchase from NetDealer in Graveyard Area for 14600z,"G,S,V",standard,"gregar, falzar",30
+55,,MachGun1(マシンガン１),cursor,30,Fire 9sts at row w/clst enmy,"A: Gunner Rank 10-S T: Gunner Rank 6+ (Gregar), Seaside Area 3 GMD R: Gunner Rank 6+ (Falzar)*:","A,R,T,*",standard,"gregar, falzar",12
+56,,MachGun2(マシンガン２),cursor,50,Fire 9sts at row w/clst enmy,S:,"E,G,S",standard,"gregar, falzar",24
+57,,MachGun3(マシンガン３),cursor,70,Fire 9sts at row w/clst enmy,,"B,F,M",standard,"gregar, falzar",36
+58,,MiniBomb(ミニボム),non-elemental,50,Throws a MiniBomb 3sq ahead,B: Folder1 x2L: Folder1 x2R: Central Area 2 GMD*: RobCtrlComp1 GMD,"B,L,R,*",standard,"gregar, falzar",6
+59,,BigBomb(ビッグボム),non-elemental,140,Throws a 9 panl bomb 3panl fwd,V: Aster Land normal stock (9000 Z),"O,P,V",standard,"gregar, falzar",32
+60,,EnergBom(エナジーボム),non-elemental,40,Throws a bomb 3sq ahead,C: RobCtrlComp2 GMDV: Seaside Area 2 GMD*:,"C,K,V,*",standard,"gregar, falzar",11
+61,,MegEnBom(メガエナジーボム),non-elemental,60,Throws a bomb 3sq ahead,"G: Sky Area 1 GMDM: Seaside Area in-battle GMDO: Green Area 2 GMD, AquarumComp3 GMD*: Mr Weather Comp 3 GMD","G,M,O,*",standard,"gregar, falzar",27
+62,,FlshBom1(フラッシュボム１),non-elemental,40,Thrw dlyd stun bomb 3sq fwd,Q:,"J,L,Q,*",standard,"gregar, falzar",30
+63,,FlshBom2(フラッシュボム２),non-elemental,70,Thrw dlyd stun bomb 3sq fwd,,"G,K,R",standard,"gregar, falzar",34
+64,,FlshBom3(フラッシュボム３),non-elemental,100,Thrw dlyd stun bomb 3sq fwd,,"G,K,R",standard,"gregar, falzar",38
+65,,BlkBomb(ブラックボム),fire,250,Thrw shel 3sqr fwd. Fire attk,,"B,F,O",standard,"gregar, falzar",32
+66,,BugBomb(バグボム),non-elemental,-,Throws a BugBomb 3sq ahead,Purchase from Mr. Famous in Aster Land for 8000 Z.,"G,S,V",standard,"gregar, falzar",24
+67,,GrasSeed(クサムラシード),wood,-,Makes 9sq meadow 3sq ahead,S: Green Area 1 GMD,"A,F,S,*",standard,"gregar, falzar",19
+68,,IceSeed(アイスシード),aqua,-,Makes 9sq ice field 3sq ahead,*: ACDC HP BMD,"A,L,R,*",standard,"gregar, falzar",31
+69,,PoisSeed(ポイズンシード),non-elemental,-,Makes 9sq poisn swp 3sq ahead,P: Purchase from BugFrag Trader in Sky Area 1 for 48 BugFrags.,"H,N,P,*",standard,"gregar, falzar",37
+70,,Sword(ソード),sword,80,Cuts enmy in front! Range: 1,L: Central Area 1 GMDS: Folder1 x4*: AquarumComp1 GMD,"H,L,S,*",standard,"gregar, falzar",8
+71,,WideSwrd(ワイドソード),sword,80,Cuts enmy in front! Range: 3,"S: Folder1 x2, Central Area 2 GMD*: Green Area 2 GMD (need Untrap?), AquarumComp2 GMD","H,L,S,*",standard,"gregar, falzar",12
+72,,LongSwrd(ロングソード),sword,100,Cuts enmy in front! Range: 2,"H: Central Area 3 GMD, RobCtrlComp2 GMD*: Underground Area 2 GMD","H,L,S,*",standard,"gregar, falzar",25
+73,,WideBlde(ワイドブレード),sword,150,Cuts enmy in front! Range: 3,,"B,R,W",standard,"gregar, falzar",38
+74,,LongBlde(ロングブレード),sword,150,Cuts enmy in front! Range: 2,BMD in Pavilion Comp 4M: Aster Land normal stock (6200 Z)GMD in Undernet 3 (JP),"B,M,V",standard,"gregar, falzar",38
+75,,FireSwrd(フレイムソード),fire,140,Cut enmy 3sq fwrd w/fire,F: Swordy2 Rank 10-S O: Swordy2 Rank 6+ (Falzar) Z: Swordy2 Rank 6+ (Gregar),"F,O,Z",standard,"gregar, falzar",30
+76,,AquaSwrd(アクアソード),aqua,160,Cut enmy 3sq fwrd w/aqua,,"A,I,Y",standard,"gregar, falzar",32
+77,,ElecSwrd(エレキソード),electric,120,Cut enmy 3sq fwrd w/elec,E: Central Area 3 PMDGMD in Undernet 3 (JP),"E,K,N",standard,"gregar, falzar",35
+78,,BambSwrd(バンブーソード),wood,150,Cut enmy 3sq fwrd w/wood,W: Purchase from NetDealer in Seaside Area 3 for 4200z.,"H,S,W",standard,"gregar, falzar",34
+79,,WindRack(フウジンラケット),wind,140,Blow enmy in front! Range: 3,Purchase from NetDealer in ACDC Area for 7200 Z.GMD in Graveyard (Graveyard 2 for JP)Defeat the 4th Virus Battler in the Air Tank Comp for the first time. (JP),"F,J,R,*",standard,"gregar, falzar",19
+80,,StepSwrd(フミコミザン),sword,160,Use WideSwrd 2sq ahead,,"B,L,P",standard,"gregar, falzar",28
+81,,VarSwrd(バリアブルソード),sword,160,A magical shifting sword.,PMD in ACDC HPGMD in Immortal Area (JP),"K,V,W",standard,"gregar, falzar",28
+82,,NeoVari(ネオバリアブル),sword,220,,N Purchase from BugFrag Trader in Sky Area 1 for 80 BugFrags. 80 BugFrags. (JP),N,standard,"gregar, falzar",52
+83,,MoonBld(エンゲツクナイ),sword,130,Slices enemies around,M: Undernet in-battle GMD,"A,M,T",standard,"gregar, falzar",35
+84,,Muramasa(ムラマサブレード),sword,???,Atk power equals amt of lostHP,M: Undernet 1 PMD,M,standard,"gregar, falzar",77
+85,,MchnSwrd(マシーンソード),non-elemental,200,Search and hit stund enemies.,L: DarkMech Rank 10-S Q: DarkMech Rank 6+,"H,L,Q",standard,"gregar, falzar",37
+86,,ElemSwrd(エレメントソード),non-elemental,220,"Cuts enmy on grass, ice, fire",,"J,M,U",standard,"gregar, falzar",43
+87,,AssnSwrd(アサシンソード),non-elemental,240,When plyz cut enemy spec panl,,"N,R,Y",standard,"gregar, falzar",50
+88,,CrakShot(クラックシュート),non-elemental,60,Shoot a panel at an enemy!,*: Folder1 x2,"A,G,T,*",standard,"gregar, falzar",4
+89,,DublShot(ダブルシュート),non-elemental,60,Shoot 2 panels at an enemy!,R: Sky Area 1 GMD*:,"C,R,U,*",standard,"gregar, falzar",8
+90,,TrplShot(トリプルシュート),non-elemental,100,Shoot 3 panels at an enemy!,L: Seaside Area 3 GMD*: Seaside Area 3 GMD,"J,L,V,*",standard,"gregar, falzar",12
+91,,Rflectr1(リフレクメット１),non-elemental,60,Bounce an attk back at them!,A: Mettaur Rank 10-S. Seaside Area 1 GMD C: Mettaur Rank 6+ (Gregar) P: Mettaur Rank 6+ (Falzar),"A,C,P,*",standard,"gregar, falzar",7
+92,,Rflectr2(リフレクメット２),non-elemental,120,Bounce an attk back at them!,B: Mettaur2 Rank 6+ (Gregar) G: Mettaur2 Rank 6+ (Falzar) Y: Mettaur2 Rank 10-S,"B,G,Y,*",standard,"gregar, falzar",16
+93,,Rflectr3(リフレクメット３),non-elemental,200,Bounce an attk back at them!,E: Mettaur3 Rank 10-S (Gregar) F: Mettaur3 Rank 10-S (Falzar) O: Mettaur 3 Rank 6+,"E,F,O,*",standard,"gregar, falzar",25
+94,,WaveArm1(ウェーブアーム１),non-elemental,80,Fllw enemy and fire trap wave,F: Underground Area 1 GMD,"E,F,G",standard,"gregar, falzar",15
+95,,WaveArm2(ウェーブアーム２),non-elemental,120,Fllw enemy and fire trap wave,,"L,M,N",standard,"gregar, falzar",22
+96,,WaveArm3(ウェーブアーム３),non-elemental,160,Fllw enemy and fire trap wave,,"R,S,T",standard,"gregar, falzar",29
+97,,SandWrm1(サンドワーム１),non-elemental,130,Attk enmy from rear w/snakarm,,"A,G,L",standard,"gregar, falzar",30
+98,,SandWrm2(サンドワーム２),non-elemental,150,Attk enmy from rear w/snakarm,,"B,R,Y",standard,"gregar, falzar",34
+99,,SandWrm3(サンドワーム３),non-elemental,170,Attk enmy from rear w/snakarm,,"H,J,S",standard,"gregar, falzar",38
+100,,SumnBlk1(サモンブラック１),non-elemental,160,Summon a Nghtmare attack!,,"E,I,P",standard,"gregar, falzar",30
+101,,SumnBlk2(サモンブラック２),non-elemental,200,Summon a Nghtmare attack!,,"H,O,V",standard,"gregar, falzar",40
+102,,SumnBlk3(サモンブラック３),non-elemental,260,Summon a Nghtmare attack!,,"W,Y,Z",standard,"gregar, falzar",46
+103,,Snake(カモンスネーク),non-elemental,30,Call snke from hole in area.,L: Sky Area in-battle GMDPMD in Class 6-2 CompGMD in Graveyard 1 (JP),"H,L,M",standard,"gregar, falzar",34
+104,,NumbrBl(ナンバーボール),non-elemental,???,Last 2 HP digits = atk pwr,N: Aster Land normal stock (12600 Z),N,standard,"gregar, falzar",69
+105,,FireHit1(ファイアパンチ１),fire,60,Slams closest enemy,F: Seaside Area 1 GMD,"D,E,F",standard,"gregar, falzar",12
+106,,FireHit2(ファイアパンチ２),fire,120,Slams closest enemy,,"R,S,T",standard,"gregar, falzar",22
+107,,FireHit3(ファイアパンチ３),fire,180,Slams closest enemy,,"A,B,C",standard,"gregar, falzar",32
+108,,BurnSqr1(バーンスクエア１),fire,100,Press A to burn a 4pnl sqr,,"H,P,V",standard,"gregar, falzar",24
+109,,BurnSqr2(バーンスクエア２),fire,120,Press A to burn a 4pnl sqr,,"D,M,T",standard,"gregar, falzar",30
+110,,BurnSqr3(バーンスクエア３),fire,140,Press A to burn a 4pnl sqr,,"E,O,Z",standard,"gregar, falzar",36
+111,,Meteors(リュウセイグン),fire,40,Drop many meteor on enmy area,R: Graveyard Area in-battle GMD,R,standard,"gregar, falzar",73
+112,,AquaNdl1(アクアニードル１),aqua,40,Target 3 needles at enemy!,C: Puffy Rank 10-S J: Puffy Rank 6+ (Falzar) P: Puffy Rank 6+ (Gregar),"C,J,P",standard,"gregar, falzar",31
+113,,AquaNdl2(アクアニードル２),aqua,60,Target 3 needles at enemy!,,"F,K,T",standard,"gregar, falzar",35
+114,,AquaNdl3(アクアニードル３),aqua,80,Target 3 needles at enemy!,,"A,L,U",standard,"gregar, falzar",39
+115,,BlzrdBal(ブリザードボール),aqua,150,Launch a giant snowball,T: Purchase from NetDealer in Graveyard Area for 18400z,"H,N,T",standard,"gregar, falzar",39
+116,,Sensor1(キラーセンサー１),electric,100,Hit enmy with beam from snsr,,"J,O,W",standard,"gregar, falzar",32
+117,,Sensor2(キラーセンサー２),electric,130,Hit enmy with beam from snsr,,"N,U,Y",standard,"gregar, falzar",35
+118,,Sensor3(キラーセンサー３),electric,160,Hit enmy with beam from snsr,,"I,K,Q",standard,"gregar, falzar",38
+119,,Boomer(ブーメラン),wood,100,Boomerang that circ btl field,"J: Underground Area 2 GMD, Central Area 1/2/3 in-battle GMD T: JdgTreeComp2 GMD","J,K,T",standard,"gregar, falzar",16
+120,,HiBoomer(ハイブーメラン),wood,140,Boomerang that circ btl field,Purchase from NetDealer in ACDC Area for 5000 Z.Obtain from a boy in Seaside Aquarium by trading a Double Shot CGMD in Immortal Area (JP),"B,L,V",standard,"gregar, falzar",26
+121,,M-Boomer(メガブーメラン),wood,170,Boomerang that circ btl field,W: Purchase from NetDealer in Graveyard Area for 10000z,"I,M,W",standard,"gregar, falzar",36
+122,,Lance(バンブーランス),wood,150,Lance through back line,W: Green Area 1 PMD,"A,R,W,*",standard,"gregar, falzar",42
+123,,HeatDrgn(ヒートドラゴン),fire,140,Drgn near clst enmy Hit 2 rows,,"G,R,T",standard,"gregar, falzar",40
+124,,ElecDrgn(エレキドラゴン),electric,150,Drgn near clst enmy Hit 2 rows,,"A,L,V",standard,"gregar, falzar",40
+125,,AquaDrgn(アクアドラゴン),aqua,120,Drgn near clst enmy Hit 2 rows,,"H,P,S",standard,"gregar, falzar",40
+126,,WoodDrgn(ウッドドラゴン),wood,130,Drgn near clst enmy Hit 2 rows,,"G,T,V",standard,"gregar, falzar",48
+127,,GolmHit1(ゴーレムパンチ１),breaking,140,Hit 3pnl area arnd clst enmy,,"I,K,Y",standard,"gregar, falzar",17
+128,,GolmHit2(ゴーレムパンチ２),breaking,190,Hit 3pnl area arnd clst enmy,,"D,P,U",standard,"gregar, falzar",27
+129,,GolmHit3(ゴーレムパンチ３),breaking,250,Hit 3pnl area arnd clst enmy,,"H,M,V",standard,"gregar, falzar",38
+130,,JustcOne(ジャスティスワン),breaking,220,Fist Atk on center panel,,J,standard,"gregar, falzar",90
+131,,AirSpin1(エアホイール１),wind,50,Spits out hurricane attack,R: Seaside Area in-battle GMD,"F,G,R",standard,"gregar, falzar",22
+132,,AirSpin2(エアホイール２),wind,50,,A: Undernet 2 GMD,"A,L,T",standard,"gregar, falzar",29
+133,,AirSpin3(エアホイール３),wind,50,Spits out hurricane attack,T: Purchase from NetDealer in Undernet Zero for 12900 Z.BMD in Immortal Area (JP)Number Lotto 71757977,"N,O,T",standard,"gregar, falzar",36
+134,,Wind(トップウ),wind,-,Windbox blows at enmy area,,*,standard,"gregar, falzar",10
+135,,Fan(スイコミ),wind,-,VacuumFn pulls enemy in,,*,standard,"gregar, falzar",10
+136,,Magnum(マグナム),cursor,130,,Purchase from NetDealer in ACDC Area for 8800 Z.,"F,L,W",standard,"gregar, falzar",31
+137,,CircGun(サークルガン),cursor,150,Stop sght w/Button and attck,P: Underground Area 1 PMD,"P,T,V",standard,"gregar, falzar",35
+138,,RockCube(ストーンキューブ),obstacle,-,Place a RockCube in front,*: Green Area 2 GMD,*,standard,"gregar, falzar",6
+139,,LilBolr1(リトルボイラー１),obstacle,100,3pnl fwd Kttl attk Attack+,,"F,K,L",standard,"gregar, falzar",18
+140,,LilBolr2(リトルボイラー２),obstacle,140,3pnl fwd Kttl attk Attack+,,"E,M,V",standard,"gregar, falzar",23
+141,,LilBolr3(リトルボイラー３),obstacle,180,3pnl fwd Kttl attk Attack+,,"G,S,Z",standard,"gregar, falzar",28
+142,,AirRaid1(エアレイド１),obstacle,10,Attk enmy w/flying FgtrPlne.,G:FgtrPlne Rank 6+ (Gregar) K: FgtrPlne Rank 10-S R: FgtrPlne Rank 6+ (Falzar),"G,K,R",standard,"gregar, falzar",26
+143,,AirRaid2(エアレイド２),obstacle,10,Attk enmy w/flying FgtrPlne.,,"O,T,Y",standard,"gregar, falzar",32
+144,,AirRaid3(エアレイド３),obstacle,10,Attk enmy w/flying FgtrPlne.,,"N,U,Z",standard,"gregar, falzar",39
+145,,TimeBom1(カウントボム１),obstacle,150,,F: ACDC Area GMD H: Purchase from NetDealer in Seaside Area 3 for 8800z,"F,G,H",standard,"gregar, falzar",20
+146,,TimeBom2(カウントボム２),obstacle,190,Explodes 3 seconds later,E: Sky Area in-battle GMDGMD in Pavilion Comp 2GMD in Graveyard 1 (JP),"C,D,E",standard,"gregar, falzar",30
+147,,TimeBom3(カウントボム３),obstacle,230,Explodes 3 seconds later,L: Purchase from NetDealer in Undernet Zero for 15200 Z.BMD in Graveyard 1. Requires Cloud Gate to be opened. (JP)Number Lotto 23722234Obtain from man in Green Town Court Foyer by trading a Holy Panel S.,"L,M,N",standard,"gregar, falzar",37
+148,,Mine(ステルスマイン),obstacle,200,Place a mine in enmy area,S: Purchase from BugFrag Trader in Sky Area 1 for 36 BugFrags.GMD in Undernet 3 (JP),"A,S,T",standard,"gregar, falzar",28
+149,,Fanfare(オウエンカ),obstacle,-,Take no dmage for a while,Z: Trumpy Rank 10-S,"P,S,Z,*",standard,"gregar, falzar",20
+150,,Discord(ディスコード),obstacle,-,Confuses enemies w/music,S: Tuby Rank 6+,"A,G,S,*",standard,"gregar, falzar",20
+151,,Timpani(ティンパニー),obstacle,-,Stop enmy feet with music,,"I,O,T,*",standard,"gregar, falzar",20
+152,,Silence(サイレンス),obstacle,-,Blinds enemies w/music,,"B,R,W,*",standard,"gregar, falzar",20
+153,,VDoll(ワラニンギョウ),obstacle,-,Throws VDoll 3sq ahead,S: Underground Area in-battle GMD,"F,N,S,*",standard,"gregar, falzar",39
+154,,Guardian(オジゾウサン),obstacle,200,Statue punishes when hit,O: Punishment Chair Comp PMD,O,standard,"gregar, falzar",64
+155,,Anubis(ポイズナヌビス),obstacle,-,Anubis poisons enemies,"P: PMD in Graveyard (Graveyard 2 for JP), Aster Land Order Service (27200 Z)",P,standard,"gregar, falzar",86
+156,,Recov10(リカバリー１０),non-elemental,-,Recovers 10HP,A: Folder1 x2L: Folder1 x2*: Central Area 1 GMD,"A,D,L,*",standard,"gregar, falzar",4
+157,,Recov30(リカバリー３０),non-elemental,-,Recovers 30HP,"Q: Central Area 3 GMD*: RobCtrlComp2 BMD, Central Area 2 NetDealer (1000 Z)","E,L,Q,*",standard,"gregar, falzar",12
+158,,Recov50(リカバリー５０),non-elemental,-,Recovers 50HP,C: Seaside Area 1 GMD*: AquarumComp2 GMD,"C,M,P",standard,"gregar, falzar",18
+159,,Recov80(リカバリー８０),non-elemental,-,Recovers 80HP,"H: AquarumComp3 GMD, Tab's Chip Order K: Purchase from NetDealer in Seaside Area 3 for 3000zV: Green Area 1 GMD*: Sky Area 2 GMD","H,K,V,*",standard,"gregar, falzar",24
+160,,Recov120(リカバリー１２０),non-elemental,-,Recovers 120HP,,"F,P,S",standard,"gregar, falzar",32
+161,,Recov150(リカバリー１５０),non-elemental,-,Recovers 150HP,BMD in Undernet Zero. Requires Water Gate to be open.GMD in Undernet 3 (JP),"J,M,T",standard,"gregar, falzar",38
+162,,Recov200(リカバリー２００),non-elemental,-,Recovers 200HP,BMD in Pavilion Comp 1GMD in Graveyard 1 (JP),"I,Q,Z",standard,"gregar, falzar",32
+163,,Recov300(リカバリー３００),non-elemental,-,Recovers 300HP,J: Graveyard in-battle GMD,"J,O,Y",standard,"gregar, falzar",48
+164,,PanlGrab(パネルスチール),non-elemental,-,Steals 1 enemy square!,*: Seaside Area 3 GMD,*,standard,"gregar, falzar",6
+165,,AreaGrab(エリアスチール),non-elemental,-,Steals left edge from enmy,B: RobCtrlComp1 GMDF: Sky Area 1 GMDS: Folder1 x1*:,"B,F,S,*",standard,"gregar, falzar",8
+166,,GrabBnsh(スチールパニシュ),non-elemental,-,20 damage for every stolen sq,,"B,M,S",standard,"gregar, falzar",24
+167,,GrabRvng(スチールリベンジ),non-elemental,-,40 damage for every stolen sq,Q: Purchase from BugFrag Trader in Sky Area 1 for 65 BugFrags.,"I,Q,Z",standard,"gregar, falzar",50
+168,,PnlRetrn(パネルリターン),non-elemental,-,Fix your area's panels,*: Seaside Area 2 BMD,*,standard,"gregar, falzar",14
+169,,Geddon(デスマッチ),non-elemental,-,Breaks all empty panels,,"A,L,R,*",standard,"gregar, falzar",47
+170,,HolyPanl(ホーリパネル),non-elemental,-,Creates a HolyPanl in front,A: Green Area 2 BMD,"A,B,S,*",standard,"gregar, falzar",24
+171,,Snctuary(サンクチュアリ),non-elemental,-,Chng all own panel to holy,Z: Purchase from NetDealer in Undernet Zero for 15200 Z.BMD in Immortal Area (JP),Z,standard,"gregar, falzar",62
+172,,ComingRd(カミングロード),non-elemental,-,Pull an enemy to the front,,*,standard,"gregar, falzar",21
+173,,GoingRd(ゴーイングロード),non-elemental,-,Push an enemy to the back,,*,standard,"gregar, falzar",21
+174,,SloGauge(ヘビーゲージ),non-elemental,-,CustGauge slow-down,Purchase from Mr. Famous in Aster Land for 5800 Z.,"A,B,G,*",standard,"gregar, falzar",42
+175,,FstGauge(クイックゲージ),non-elemental,-,CustGauge speed-up,Purchase from NetDealer in ACDC Area for 12000 Z.,"E,M,R,*",standard,"gregar, falzar",48
+176,,FullCust(フルカスタム),non-elemental,-,CustGauge instantly refills,*: Aster Land normal stock (7800 Z),*,standard,"gregar, falzar",50
+177,,BusterUp(バスターアップ),plus,-,Power goes up by 1,"*: Folder1 x1, Seaside Area 2 GMD",*,standard,"gregar, falzar",11
+178,,BugFix(バグシュウセイ),non-elemental,-,Repairs & removes bugs,P: Oxygen Tank Comp PMD,"K,P,Z,*",standard,"gregar, falzar",32
+179,,Invisibl(インビジブル),non-elemental,-,Invisible for a while,"*: Seaside Area 2 GMD, AquarumComp2 GMD",*,standard,"gregar, falzar",30
+180,,Barrier(バリア),non-elemental,-,Nullifies 10 HP of damage,A: Central Area 1 GMD*: RobCtrlComp1 GMD,"A,F,R,*",standard,"gregar, falzar",7
+181,,Barr100(バリア１００),non-elemental,-,Nullifies 100 HP of damage,H: Purchase from NetDealer in Seaside Area 3 for 3800z,"H,O,Y",standard,"gregar, falzar",30
+182,,Barr200(バリア２００),non-elemental,-,Nullifies 200 HP of damage,K: Purchase from NetDealer in Undernet Zero for 11200 Z.BMD in Undernet 3 (JP),"K,U,W",standard,"gregar, falzar",52
+183,,BblWrap(バブルラップ),aqua,-,Weak against elec atk,Q: Purchase from BugFrag Trader in Sky Area 1 for 24 BugFrags.,"I,Q,Z",standard,"gregar, falzar",58
+184,,LifeAur(ドリームオーラ),non-elemental,-,Repel all attacks under200,U: Purchase from NetDealer in Undernet Zero for 22400 Z.PMD in Undernet 3 (JP),U,standard,"gregar, falzar",70
+185,,MagCoil(マグネコイル),non-elemental,-,Draw in enmy with mag force,,*,standard,"gregar, falzar",14
+186,,ColArmy(カーネルアーミー),non-elemental,40,Launch an attk with Col. army,B: Sky Area 1 BMD,"B,G,R,*",standard,"gregar, falzar",25
+187,,ElemTrap(エレメントラップ),non-elemental,240,Trap enmy and attk with elem,Purchase from Mr. Famous in Aster Land for 10600 Z.,"G,S,U",standard,"gregar, falzar",42
+188,,AntiNavi(ナビスカウト),non-elemental,-,Takes the enemy's Navi away,Purchase from Mr. Famous in Aster Land for 9200 Z.,"F,L,T,*",standard,"gregar, falzar",50
+189,,AntiDmg(カワリミ),non-elemental,100,Sets trap and throw stars,*: Underground Area in-battle GMD,"G,R,V,*",standard,"gregar, falzar",30
+190,,AntiSwrd(シラハドリ),non-elemental,100,Retaliate for sword damage,,"A,R,Z,*",standard,"gregar, falzar",33
+191,,AntiRecv(バッドメディスン),non-elemental,-,,Purchase from Mr. Famous in Aster Land for 6900 Z.,"A,F,V,*",standard,"gregar, falzar",37
+192,,WhiCapsl(ホワイトカプセル),non-elemental,-,Add an effect: Paralyze,*: Folder1 x1,*,standard,"gregar, falzar",30
+193,,Uninstll(アンインストール),non-elemental,-,,Purchase from Mr. Famous in Aster Land for 12000 Z.,"G,L,R",standard,"gregar, falzar",60
+194,,CopyDmg(コピーダメージ),cursor,-,Duplicate damage to 2nd enemy,*: Central Area 2 BMD,*,standard,"gregar, falzar",12
+195,,LifeSync(ライフシンクロ),cursor,-,Makes HP same as enemy,*: AquarumComp1 BMD,*,standard,"gregar, falzar",12
+196,,Atk+10(アタック＋１０),plus,-,+10 for selected atk chip,"*: Folder1 x2, Central Area 2 GMD",*,standard,"gregar, falzar",4
+197,,Atk+30(アタック＋３０),plus,-,+30 for selected atk chip,*:,*,standard,"gregar, falzar",66
+198,,Navi+20(ナビ＋２０),plus,-,+20 for selected Navi chip,*: Undernet in-battle GMD,*,standard,"gregar, falzar",36
+199,,ColorPt(カラーポイント),plus,-,+10 for next chip attack,"*: AirConditionerComp BMD, Mr Weather Comp 1 GMD",*,standard,"gregar, falzar",31
+200,,DblPoint(ダブルポイント),plus,-,+20 for next chip attack,"*: Sky Area 1 BMD, Immortal Area in-battle GMD(JP)",*,standard,"gregar, falzar",50
+201,,Roll(ロール),non-elemental,20,"Attacks enmy, then heals you","Obtained in email from Mayl Sakurai during the story.Reward from request ""Track the Criminal"".","R,*",mega,"gregar, falzar",20
+202,,Roll2(ロール２),non-elemental,40,"Attacks enmy, then heals you",Obtained in email from Mayl during the story.,R,mega,"gregar, falzar",40
+203,,Roll3(ロール３),non-elemental,60,"Attacks enmy, then heals you",Talk to Mayl in Lan's house during the final chapter of the game.,R,mega,"gregar, falzar",60
+204,,ProtoMan(ブルース),sword,150,Move in and slice the enemy,"ProtoMan v1/EX/SPReward from request ""Track the Criminal""","B,*",mega,"gregar, falzar",41
+205,,ProtoMnEX(ブルースＥＸ),sword,170,Move in and slice the enemy,ProtoMan EX/SP,B,mega,"gregar, falzar",53
+206,,ProtoMnSP(ブルースＳＰ),sword,190-290,Move in and slice the enemy,ProtoMan SP,B,mega,"gregar, falzar",68
+207,,BlastMan(ブラストマン),fire,120,Head fwd & launch blst attk,BlastMan EX/SPLotto Number 24616497,"H,*",mega,"gregar, falzar",30
+208,,BlastMnEX(ブラストマンＥＸ),fire,140,Head fwd & launch blst attk,BlastMan EX/SP,H,mega,"gregar, falzar",49
+209,,BlastMnSP(ブラストマンＳＰ),fire,150-250,Head fwd & launch blst attk,BlastMan SP,H,mega,"gregar, falzar",68
+210,,DiveMan(ダイブマン),aqua,130,Snd giant wave acrs area 2pnl,DiveMan EX/SPLotto Number 32310827,"D,*",mega,"gregar, falzar",45
+211,,DiveManEX(ダイブマンＥＸ),aqua,150,Snd giant wave acrs area 2pnl,DiveMan EX/SP,D,mega,"gregar, falzar",60
+212,,DiveManSP(ダイブマンＳＰ),aqua,170-270,Snd giant wave acrs area 2pnl,DiveMan SP,D,mega,"gregar, falzar",75
+213,,CrcusMan(サーカスマン),non-elemental,20,Capture enmy in a ash attck,"CircusMan EX/SPReward from request ""An Experiment!""","C,*",mega,"gregar, falzar",42
+214,,CrcusMnEX(サーカスマンＥＸ),non-elemental,25,Capture enmy in a ash attck,CircusMan EX/SP,C,mega,"gregar, falzar",64
+215,,CrcusMnSP(サーカスマンＳＰ),non-elemental,30-55,Capture enmy in a ash attck,CircusMan SP,C,mega,"gregar, falzar",86
+216,,JudgeMan(ジャッジマン),electric,100,Whip 3 panels forward,"JudgeMan EX/SPReward from request ""An Experiment!""","J,*",mega,"gregar, falzar",52
+217,,JudgeMnEX(ジャッジマンＥＸ),electric,120,Whip 3 panels forward,JudgeMan EX/SP,J,mega,"gregar, falzar",62
+218,,JudgeMnSP(ジャッジマンＳＰ),electric,140-190,Whip 3 panels forward,JudgeMan SP,J,mega,"gregar, falzar",72
+219,,ElmntMan(エレメントマン),non-elemental,100,Hit (A) whn col chges elem attk,"ElementMan EX/SPReward from request ""An Experiment!""","E,*",mega,"gregar, falzar",50
+220,,ElmntMnEX(エレメントマンＥＸ),non-elemental,120,Hit (A) whn col chges elem attk,ElementMan EX/SP,E,mega,"gregar, falzar",53
+221,,ElmntMnSP(エレメントマンＳＰ),non-elemental,140-240,Hit (A) whn col chges elem attk,ElementMan SP,E,mega,"gregar, falzar",66
+222,,Colonel(カーネル),sword,160,Cut enmy lines in Z shape,"Colonel EX/SPReward from request ""Track the criminal""","C,*",mega,"gregar, falzar",45
+223,,ColonelEX(カーネルＥＸ),sword,180,Cut enmy lines in Z shape,Colonel EX/SP,C,mega,"gregar, falzar",70
+224,,ColonelSP(カーネルＳＰ),sword,200-300,Cut enmy lines in Z shape,Colonel SP,C,mega,"gregar, falzar",91
+225,,HeatMan(ヒートマン),fire,100,Burn with a radial fire attk,HeatMan v1/EX/SPLotto Number 12404002,"H,*",mega,gregar,32
+226,,HeatManEX(ヒートマンＥＸ),fire,130,Burn with a radial fire attk,HeatMan EX/SP,H,mega,gregar,55
+227,,HeatManSP(ヒートマンＳＰ),fire,160-260,Burn with a radial fire attk,HeatMan SP,H,mega,gregar,70
+228,,ElecMan(エレキマン),electric,120,Attk your surrndns with thdr,ElecMan v1/EX/SPLotto Number30424514,"E,*",mega,gregar,38
+229,,ElecManEX(エレキマンＥＸ),electric,140,Attk your surrndns with thdr,ElecMan EX/SP,E,mega,gregar,52
+230,,ElecManSP(エレキマンＳＰ),electric,160-210,Attk your surrndns with thdr,ElecMan SP,E,mega,gregar,79
+231,,SlashMan(スラッシュマン),sword,80,Slash an enmy w/ flyn knfe,SlashMan v1/EX/SPLotto Number 55910601,"S,*",mega,gregar,42
+232,,SlashMnEX(スラッシュマンＥＸ),sword,100,Slash an enmy w/ flyn knfe,SlashMan EX/SP,"S,*",mega,gregar,65
+233,,SlashMnSP(スラッシュマンＳＰ),sword,120-220,Slash an enmy w/ flyn knfe,SlashMan SP,"S,*",mega,gregar,79
+234,,EraseMan(キラーマン),cursor,120,Press (A) for 3panl beam attk,EraseMan v1/EX/SPLotto Number 84387543,"K,*",mega,gregar,51
+235,,EraseMnEX(キラーマンＥＸ),cursor,140,Press (A) for 3panl beam attk,EraseMan EX/SP,K,mega,gregar,65
+236,,EraseMnSP(キラーマンＳＰ),cursor,160-210,Press (A) for 3panl beam attk,EraseMan SP,K,mega,gregar,79
+237,,ChrgeMan(チャージマン),non-elemental,60,Rush fwd! Open panl hit TrCar,ChargeMan v1/EX/SPLotto Number 92070765,"C,*",mega,gregar,42
+238,,ChrgeMnEX(チャージマンＥＸ),non-elemental,70,Rush fwd! Open panl hit TrCar,ChargeMan EX/SP,C,mega,gregar,63
+239,,ChrgeMnSP(チャージマンＳＰ),non-elemental,80-130,Rush fwd! Open panl hit TrCar,ChargeMan SP,C,mega,gregar,81
+240,,SpoutMan(アクアマン),aqua,50,Watr atk! Bhnd 2row power-up,SpoutMan v1/EX/SPLotto Number 51702791,"A,*",mega,falzar,42
+241,,SpoutMnEX(アクアマンＥＸ),aqua,60,Watr atk! Bhnd 2row power-up,SpoutMan EX/SP,A,mega,falzar,56
+242,,SpoutMnSP(アクアマンＳＰ),aqua,70-120,Watr atk! Bhnd 2row power-up,SpoutMan SP,A,mega,falzar,78
+243,,TmhkMan(トマホークマン),wood,140,"Slice 2sq side, 3sq vertical",TomahawkMan v1/EX/SPLotto Number 67520179,"T,*",mega,falzar,40
+244,,TmhkManEX(トマホークマンＥＸ),wood,160,"Slice 2sq side, 3sq vertical",TomahawkMan EX/SP,T,mega,falzar,60
+245,,TmhkManSP(トマホークマンＳＰ),wood,180-280,"Slice 2sq side, 3sq vertical",TomahawkMan SP,T,mega,falzar,95
+246,,TenguMan(テングマン),wind,70,"Attk 2row from air, then side",TenguMan v1/EX/SPLotto Number 00297421,"T,*",mega,falzar,43
+247,,TenguMnEX(テングマンＥＸ),wind,90,"Attk 2row from air, then side",TenguMan EX/SP,T,mega,falzar,61
+248,,TenguMnSP(テングマンＳＰ),wind,110-160,"Attk 2row from air, then side",TenguMan SP,T,mega,falzar,74
+249,,GrndMan(グランドマン),breaking,60,Move fwrd then attk w/ drill,GroundMan v1/EX/SPLotto Number 10414878,"G,*",mega,falzar,41
+250,,GrndManEX(グランドマンＥＸ),breaking,70,Move fwrd then attk w/ drill,GroundMan EX/SP,G,mega,falzar,66
+251,,GrndManSP(グランドマンＳＰ),breaking,80-130,Move fwrd then attk w/ drill,GroundMan SP,G,mega,falzar,85
+252,,DustMan(ダストマン),non-elemental,110,Attk ahd. Suck in & shoot out,DustMan v1/EX/SPLotto Number 79814666,"D,*",mega,falzar,39
+253,,DustManEX(ダストマンＥＸ),non-elemental,130,Attk ahd. Suck in & shoot out,DustMan EX/SP,D,mega,falzar,56
+254,,DustManSP(ダストマンＳＰ),non-elemental,150-200,Attk ahd. Suck in & shoot out,DustMan SP,D,mega,falzar,74
+255,,Bass(フォルテ),non-elemental,60,Buster rake wide enmy area,Defeat Bass SP in Graveyard Area.,F,giga,gregar,95
+256,,BigHook(ギガントフック),breaking,240,Hook atk 2 sq wide,Obtain from email when you enter the Graveyard Area.,H,giga,gregar,92
+257,,DeltaRay(デルタレイエッジ),sword,260,A button power up by 3 swrd,Purchase from NetDealer in Graveyard Area for 30000 Z.,Z,giga,gregar,82
+258,,ColForce(カーネルフォース),non-elemental,30,Smn Col. army in open pnls,Defeat Bass BX in Underground Area 2.,Q,giga,gregar,90
+259,,BugRSwrd(バグライズソード),sword,-,Use Bug Frag with DrkSword!(Sword; if 0 Bug Frags remained),Purchase from BugFrag Trader in Sky Area 1 for 100 BugFrags.,V,giga,gregar,80
+260,,BassAnly(フォルテアナザー),non-elemental,160,A ring that hits 4 times,Defeat Bass SP in Graveyard Area.,F,giga,falzar,95
+261,,MetrKnuk(メテオナックル),breaking,100,Meteors bombard from sky,Obtain from email when you enter the Graveyard Area.,H,giga,falzar,90
+262,,CrossDiv(クロスディバイド),non-elemental,250,Cross-slice!,Purchase from NetDealer in Graveyard Area for 30000 Z.,Z,giga,falzar,93
+263,,HubBatc(サイトバッチ),non-elemental,-,Blend Hub DNA Data w/MegaMan,Defeat Bass BX in Underground Area 2.,Q,giga,falzar,99
+264,,BgDthThd(バグデスサンダー),electric,,Use Bug Frag with DarkThnd!(Thunder; if 0 Bug Frags remained),Purchase from BugFrag Trader in Sky Area 1 for 100 BugFrags.,V,giga,falzar,80

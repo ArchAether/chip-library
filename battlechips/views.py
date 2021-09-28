@@ -73,5 +73,6 @@ def get_battleChips():
         next(reader)
         for row in reader:
             battlechips.append({'number': int(row[0]), 'name': row[2], 'type': row[3], 'damage': row[4],
-            'description': row[5], 'location': row[6], 'codes': row[7], 'class': row[8], 'version': row[9]})
+            'description': row[5], 'location': row[6], 'codes': row[7], 'class': row[8], 'version': row[9],
+            'megabytes': row[10]})
     return battlechips
